@@ -1,0 +1,336 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chia-se-tam-hon-va-qua-tang-cuoc-song-tap-2_19499.html",
+    "title" : "Chia Sẻ Tâm Hồn Và Quà Tặng Cuộc Sống Tập 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 6580,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_ecbca8e3bf091d7f81afd3f798a189fa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_ecbca8e3bf091d7f81afd3f798a189fa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/01-mot_nguoi_moi_nguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 168,
+    "title" : "Một người vì mọi người"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/02-mot_viec_lam_y_nghia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 142,
+    "title" : "Một việc làm ý nghĩa"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/03-mot_tam_guong_song_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 178,
+    "title" : "Một tấm gương sống động"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/04-mot_ngay_di_choi_ho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 142,
+    "title" : "Một ngày đi chơi hồ"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/05-cha_toi_that_ky_dieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 88,
+    "title" : "Cha tôi thật kỳ diệu"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/06-loi_cam_on_muon_mang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 250,
+    "title" : "Lời cảm ơn muộn màng"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/07-xin_cho_toi_biet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 240,
+    "title" : "Xin cho tôi biết…"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/08-mot_nguoi_ban_that_su.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 82,
+    "title" : "Một người bạn thật sự"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/09-mung_ngay_doan_Tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 242,
+    "title" : "Mừng ngày đoàn tụ"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/10-trong_mat_moi_nguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 104,
+    "title" : "Trong mắt mỗi người"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/11-mot_nguoi_cha_vi_dai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 198,
+    "title" : "Một người cha vĩ đại"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/12-cam_thay_minh_to_lon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 150,
+    "title" : "Cảm thấy mình to lớn"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/13-mua_them_xang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 244,
+    "title" : "Mua thêm xăng"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/14-ong_ay_dau_phai_la_cha_d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 172,
+    "title" : "Ông ấy đâu phải là cha dượng của con"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/15-van_luon_ben_con.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 240,
+    "title" : "Vẫn luôn bên con"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/16-giay_phut_quan_trong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 290,
+    "title" : "Giây phút quan trọng"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/17-brian.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 162,
+    "title" : "Brian"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/18-nhung_mong_doi_lon_lao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 240,
+    "title" : "Những mong đợi lớn lao"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/19-buc_anh_vo_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 276,
+    "title" : "Bức ảnh vô giá"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/20-vui_ve_phuc_vu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 212,
+    "title" : "Vui vẻ phục vụ"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/21-giu_im_lang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 152,
+    "title" : "Món quà từ trái tim"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/22-mon_qua_tu_trai_tim.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 232,
+    "title" : "Bản hòa tấu của đá"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/23-cu_danh_ghi_diem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 194,
+    "title" : "Giữ im lặng"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/24-ban_hoa_tau_cua_da.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 194,
+    "title" : "Cú đánh ghi điểm"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/25-gia_tri_cua_cach_cu_xu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 196,
+    "title" : "Giá trị của cách cư xử"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/26-mot_buoi_truot_tuyet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 408,
+    "title" : "Một buổi trượt tuyết"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/27-uom_mam_cuoc_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 244,
+    "title" : "Ươm mầm cuộc sống"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/28-noi_voi_toi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 170,
+    "title" : "Nói với tôi"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/29-va_va_nhung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 524,
+    "title" : "“VÀ” và “NHƯNG”"
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/30-cung_nhau_chia_se_ve_dep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 446,
+    "title" : "Cùng nhau chia sẻ vẻ đẹp"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/01-mot_nguoi_moi_nguoi.mp3",
+    "title" : "Một người vì mọi người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/02-mot_viec_lam_y_nghia.mp3",
+    "title" : "Một việc làm ý nghĩa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/03-mot_tam_guong_song_dong.mp3",
+    "title" : "Một tấm gương sống động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/04-mot_ngay_di_choi_ho.mp3",
+    "title" : "Một ngày đi chơi hồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/05-cha_toi_that_ky_dieu.mp3",
+    "title" : "Cha tôi thật kỳ diệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/06-loi_cam_on_muon_mang.mp3",
+    "title" : "Lời cảm ơn muộn màng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/07-xin_cho_toi_biet.mp3",
+    "title" : "Xin cho tôi biết…",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/08-mot_nguoi_ban_that_su.mp3",
+    "title" : "Một người bạn thật sự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/09-mung_ngay_doan_Tu.mp3",
+    "title" : "Mừng ngày đoàn tụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/10-trong_mat_moi_nguoi.mp3",
+    "title" : "Trong mắt mỗi người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/11-mot_nguoi_cha_vi_dai.mp3",
+    "title" : "Một người cha vĩ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/12-cam_thay_minh_to_lon.mp3",
+    "title" : "Cảm thấy mình to lớn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/13-mua_them_xang.mp3",
+    "title" : "Mua thêm xăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/14-ong_ay_dau_phai_la_cha_d.mp3",
+    "title" : "Ông ấy đâu phải là cha dượng của con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/15-van_luon_ben_con.mp3",
+    "title" : "Vẫn luôn bên con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/16-giay_phut_quan_trong.mp3",
+    "title" : "Giây phút quan trọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/17-brian.mp3",
+    "title" : "Brian",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/18-nhung_mong_doi_lon_lao.mp3",
+    "title" : "Những mong đợi lớn lao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/19-buc_anh_vo_gia.mp3",
+    "title" : "Bức ảnh vô giá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/20-vui_ve_phuc_vu.mp3",
+    "title" : "Vui vẻ phục vụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/21-giu_im_lang.mp3",
+    "title" : "Món quà từ trái tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/22-mon_qua_tu_trai_tim.mp3",
+    "title" : "Bản hòa tấu của đá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/23-cu_danh_ghi_diem.mp3",
+    "title" : "Giữ im lặng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/24-ban_hoa_tau_cua_da.mp3",
+    "title" : "Cú đánh ghi điểm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/25-gia_tri_cua_cach_cu_xu.mp3",
+    "title" : "Giá trị của cách cư xử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/26-mot_buoi_truot_tuyet.mp3",
+    "title" : "Một buổi trượt tuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/27-uom_mam_cuoc_song.mp3",
+    "title" : "Ươm mầm cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/28-noi_voi_toi.mp3",
+    "title" : "Nói với tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/29-va_va_nhung.mp3",
+    "title" : "“VÀ” và “NHƯNG”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss04-chiaSeTamHonVaQuaTangCuocSong/30-cung_nhau_chia_se_ve_dep.mp3",
+    "title" : "Cùng nhau chia sẻ vẻ đẹp",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

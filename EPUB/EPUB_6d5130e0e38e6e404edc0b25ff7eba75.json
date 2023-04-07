@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cu-di-roi-se-den_19330.html",
+    "title" : "Cứ Đi Rồi Sẽ Đến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh DeltaViet",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 13043,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_6d5130e0e38e6e404edc0b25ff7eba75.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_6d5130e0e38e6e404edc0b25ff7eba75.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cu-di-1/cu-di-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cu-di-1"
+  }, {
+    "href" : "https://archive.org/download/cu-di-1/cu-di-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cu-di-2"
+  }, {
+    "href" : "https://archive.org/download/cu-di-1/cu-di-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cu-di-3"
+  }, {
+    "href" : "https://archive.org/download/cu-di-1/cu-di-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2243,
+    "title" : "cu-di-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cu-di-1/cu-di-1.mp3",
+    "title" : "cu-di-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-di-1/cu-di-2.mp3",
+    "title" : "cu-di-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-di-1/cu-di-3.mp3",
+    "title" : "cu-di-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-di-1/cu-di-4.mp3",
+    "title" : "cu-di-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

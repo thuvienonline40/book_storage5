@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-duong-mot-chieu_19674.html",
+    "title" : "Con Đường Một Chiều",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bà Tùng Long",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 34597,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_354fd15d00251813ee1d1b7a0b91ffa5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_354fd15d00251813ee1d1b7a0b91ffa5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9256,
+    "title" : "con-duong-1"
+  }, {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10141,
+    "title" : "con-duong-2"
+  }, {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5466,
+    "title" : "con-duong-3"
+  }, {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4038,
+    "title" : "con-duong-4"
+  }, {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5696,
+    "title" : "con-duong-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-1.mp3",
+    "title" : "con-duong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-2.mp3",
+    "title" : "con-duong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-3.mp3",
+    "title" : "con-duong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-4.mp3",
+    "title" : "con-duong-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-2/con-duong-5.mp3",
+    "title" : "con-duong-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

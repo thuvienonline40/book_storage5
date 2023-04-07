@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-mang-dem-giang-sinh_19667.html",
+    "title" : "Án Mạng Đêm Giáng Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21190,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_bf68f1993fc71e7b7032290fac3ba5b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_bf68f1993fc71e7b7032290fac3ba5b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1693,
+    "title" : "tham-kich-1"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1950,
+    "title" : "tham-kich-10"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2272,
+    "title" : "tham-kich-11"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1594,
+    "title" : "tham-kich-12"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2289,
+    "title" : "tham-kich-13"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1699,
+    "title" : "tham-kich-2"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1603,
+    "title" : "tham-kich-3"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "tham-kich-4"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "tham-kich-5"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1120,
+    "title" : "tham-kich-6"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "tham-kich-7"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1145,
+    "title" : "tham-kich-8"
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "tham-kich-9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-1.mp3",
+    "title" : "tham-kich-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-10.mp3",
+    "title" : "tham-kich-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-11.mp3",
+    "title" : "tham-kich-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-12.mp3",
+    "title" : "tham-kich-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-13.mp3",
+    "title" : "tham-kich-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-2.mp3",
+    "title" : "tham-kich-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-3.mp3",
+    "title" : "tham-kich-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-4.mp3",
+    "title" : "tham-kich-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-5.mp3",
+    "title" : "tham-kich-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-6.mp3",
+    "title" : "tham-kich-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-7.mp3",
+    "title" : "tham-kich-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-8.mp3",
+    "title" : "tham-kich-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-13/tham-kich-9.mp3",
+    "title" : "tham-kich-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

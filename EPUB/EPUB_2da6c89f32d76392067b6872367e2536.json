@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thong-diep-yeu-thuong-luon-mim-cuoi-voi-cuoc-song_19684.html",
+    "title" : "Thông Điệp Yêu Thương - Luôn Mỉm Cười Với Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhã Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 5562,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_2da6c89f32d76392067b6872367e2536.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_2da6c89f32d76392067b6872367e2536.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hay-mim-cuoi-voi-cuoc-song-nhieu-tac-gia-ngoai-quoc/Hay_mim_cuoi_voi_cuoc_song%20%28Nhieu%20Tac%20Gia%20ngoai%20quoc%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5562,
+    "title" : "Hay mim cuoi voi cuoc song (Nhieu Tac Gia ngoai quoc)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hay-mim-cuoi-voi-cuoc-song-nhieu-tac-gia-ngoai-quoc/Hay_mim_cuoi_voi_cuoc_song%20%28Nhieu%20Tac%20Gia%20ngoai%20quoc%29.mp3",
+    "title" : "Hay mim cuoi voi cuoc song (Nhieu Tac Gia ngoai quoc)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

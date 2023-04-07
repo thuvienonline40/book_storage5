@@ -1,0 +1,186 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thuc-hanh-tri-lieu-thap-chi-dao_19844.html",
+    "title" : "Thực Hành Trị Liệu Thập Chỉ Đạo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Duy Tân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 29531,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_35d3c63c9df0dcb7a1719e169102d518.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_35d3c63c9df0dcb7a1719e169102d518.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "BAM HUYET THAP CHI DAO-01"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2549,
+    "title" : "BAM HUYET THAP CHI DAO-02"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "BAM HUYET THAP CHI DAO-03"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1711,
+    "title" : "BAM HUYET THAP CHI DAO-04"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1538,
+    "title" : "BAM HUYET THAP CHI DAO-05"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2027,
+    "title" : "BAM HUYET THAP CHI DAO-06"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2784,
+    "title" : "BAM HUYET THAP CHI DAO-07"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1678,
+    "title" : "BAM HUYET THAP CHI DAO-08"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1982,
+    "title" : "BAM HUYET THAP CHI DAO-09"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1925,
+    "title" : "BAM HUYET THAP CHI DAO-10"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2191,
+    "title" : "BAM HUYET THAP CHI DAO-11"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "BAM HUYET THAP CHI DAO-12"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1720,
+    "title" : "BAM HUYET THAP CHI DAO-13"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1797,
+    "title" : "BAM HUYET THAP CHI DAO-14"
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1653,
+    "title" : "BAM HUYET THAP CHI DAO-15"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-01.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-02.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-03.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-04.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-05.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-06.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-07.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-08.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-09.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-10.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-11.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-12.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-13.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-14.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bam-huyet-thap-chi-dao.sna/BAM_HUYET_THAP_CHI_DAO-15.mp3",
+    "title" : "BAM HUYET THAP CHI DAO-15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

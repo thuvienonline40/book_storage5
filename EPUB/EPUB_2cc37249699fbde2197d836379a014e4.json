@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-tu-si-ban-chiec-ferrari_19650.html",
+    "title" : "Vị Tu Sĩ Bán Chiếc Ferrari",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robin Sharma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22447,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_2cc37249699fbde2197d836379a014e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_2cc37249699fbde2197d836379a014e4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "vi-tu-1"
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "vi-tu-2"
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "vi-tu-3"
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "vi-tu-4"
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "vi-tu-5"
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "vi-tu-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-1.mp3",
+    "title" : "vi-tu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-2.mp3",
+    "title" : "vi-tu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-3.mp3",
+    "title" : "vi-tu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-4.mp3",
+    "title" : "vi-tu-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-5.mp3",
+    "title" : "vi-tu-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-tu-1/vi-tu-6.mp3",
+    "title" : "vi-tu-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

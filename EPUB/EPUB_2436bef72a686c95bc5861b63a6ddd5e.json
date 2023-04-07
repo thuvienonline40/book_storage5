@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mang-thai-sinh-no-va-nuoi-con-khoe-manh_19502.html",
+    "title" : "Mang Thai Sinh Nở Và Nuôi Con Khỏe Mạnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Geon Oh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 42543,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_2436bef72a686c95bc5861b63a6ddd5e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_2436bef72a686c95bc5861b63a6ddd5e.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "mai-thai-1"
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "mai-thai-2"
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "mai-thai-3"
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "mai-thai-4"
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "mai-thai-5"
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6543,
+    "title" : "mai-thai-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-1.mp3",
+    "title" : "mai-thai-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-2.mp3",
+    "title" : "mai-thai-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-3.mp3",
+    "title" : "mai-thai-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-4.mp3",
+    "title" : "mai-thai-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-5.mp3",
+    "title" : "mai-thai-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-thai-1/mai-thai-6.mp3",
+    "title" : "mai-thai-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

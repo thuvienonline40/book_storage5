@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chet-boi-gia-tao-thuc-tinh-truoc-khi-danh-mat-chinh-minh_19434.html",
+    "title" : "Chết Bởi Giả Tạo - Thức Tỉnh Trước Khi Đánh Mất Chính Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Sỹ Thanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 13344,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_c2620a1d3307b963d5f52077ca0a5dca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_c2620a1d3307b963d5f52077ca0a5dca.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chet-1/chet-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "chet-1"
+  }, {
+    "href" : "https://archive.org/download/chet-1/chet-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2572,
+    "title" : "chet-2"
+  }, {
+    "href" : "https://archive.org/download/chet-1/chet-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2935,
+    "title" : "chet-3"
+  }, {
+    "href" : "https://archive.org/download/chet-1/chet-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4184,
+    "title" : "Chương 3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chet-1/chet-1.mp3",
+    "title" : "chet-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-1/chet-2.mp3",
+    "title" : "chet-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-1/chet-3.mp3",
+    "title" : "chet-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-1/chet-4.mp3",
+    "title" : "Chương 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

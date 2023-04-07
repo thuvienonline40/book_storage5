@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-ai-qua-song_19332.html",
+    "title" : "Không Ai Qua Sông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Tư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 20474,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_c059bae4616161c6ff323e9658beae3b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_c059bae4616161c6ff323e9658beae3b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-con-thuyen/chi-gio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1874,
+    "title" : "chi-gio"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/co-con-thuyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 954,
+    "title" : "co-con-thuyen"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/dat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "dat"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/di-that.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1742,
+    "title" : "di-that"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/hieu-lam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 769,
+    "title" : "hieu-lam"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/khoi-troi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6413,
+    "title" : "khoi-troi"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/luong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1191,
+    "title" : "luong"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/mot-dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1142,
+    "title" : "mot-dong"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/osho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 522,
+    "title" : "osho"
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/vuc-khong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2254,
+    "title" : "vuc-khong"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-con-thuyen/chi-gio.mp3",
+    "title" : "chi-gio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/co-con-thuyen.mp3",
+    "title" : "co-con-thuyen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/dat.mp3",
+    "title" : "dat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/di-that.mp3",
+    "title" : "di-that",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/hieu-lam.mp3",
+    "title" : "hieu-lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/khoi-troi.mp3",
+    "title" : "khoi-troi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/luong.mp3",
+    "title" : "luong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/mot-dong.mp3",
+    "title" : "mot-dong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/osho.mp3",
+    "title" : "osho",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-thuyen/vuc-khong.mp3",
+    "title" : "vuc-khong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

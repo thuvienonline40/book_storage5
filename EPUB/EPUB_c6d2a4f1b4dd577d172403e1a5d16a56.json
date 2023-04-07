@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/than-mat-coi-nguon-cua-hanh-phuc_19799.html",
+    "title" : "Thân Mật - Cội Nguồn Của Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 18387,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_c6d2a4f1b4dd577d172403e1a5d16a56.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_c6d2a4f1b4dd577d172403e1a5d16a56.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/than-mat-4/than-mat-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4804,
+    "title" : "than-mat-1"
+  }, {
+    "href" : "https://archive.org/download/than-mat-4/than-mat-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2372,
+    "title" : "than-mat-2"
+  }, {
+    "href" : "https://archive.org/download/than-mat-4/than-mat-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4297,
+    "title" : "than-mat-3"
+  }, {
+    "href" : "https://archive.org/download/than-mat-4/than-mat-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6914,
+    "title" : "than-mat-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/than-mat-4/than-mat-1.mp3",
+    "title" : "than-mat-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-mat-4/than-mat-2.mp3",
+    "title" : "than-mat-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-mat-4/than-mat-3.mp3",
+    "title" : "than-mat-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-mat-4/than-mat-4.mp3",
+    "title" : "than-mat-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

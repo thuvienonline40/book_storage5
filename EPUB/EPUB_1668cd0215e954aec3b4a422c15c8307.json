@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngay-trong-kiep-song-nay_19355.html",
+    "title" : "Ngay Trong Kiếp Sống Này",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sayadaw U Pandita",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 46092,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_1668cd0215e954aec3b4a422c15c8307.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_1668cd0215e954aec3b4a422c15c8307.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "ngay-trong-1"
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5699,
+    "title" : "ngay-trong-2"
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5487,
+    "title" : "ngay-trong-3"
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12320,
+    "title" : "ngay-trong-4"
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6770,
+    "title" : "ngay-trong-5"
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7707,
+    "title" : "ngay-trong-6"
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4346,
+    "title" : "ngay-trong-7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-1.mp3",
+    "title" : "ngay-trong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-2.mp3",
+    "title" : "ngay-trong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-3.mp3",
+    "title" : "ngay-trong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-4.mp3",
+    "title" : "ngay-trong-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-5.mp3",
+    "title" : "ngay-trong-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-6.mp3",
+    "title" : "ngay-trong-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-trong-4/ngay-trong-7.mp3",
+    "title" : "ngay-trong-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

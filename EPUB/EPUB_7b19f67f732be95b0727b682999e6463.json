@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/danh-cap-y-tuong_19629.html",
+    "title" : "Đánh Cắp Ý Tưởng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Steve Cone",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21762,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_7b19f67f732be95b0727b682999e6463.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_7b19f67f732be95b0727b682999e6463.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5896,
+    "title" : "danh-cap-1"
+  }, {
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6090,
+    "title" : "danh-cap-2"
+  }, {
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6204,
+    "title" : "danh-cap-3"
+  }, {
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3572,
+    "title" : "danh-cap-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-1.mp3",
+    "title" : "danh-cap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-2.mp3",
+    "title" : "danh-cap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-3.mp3",
+    "title" : "danh-cap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-4.mp3",
+    "title" : "danh-cap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

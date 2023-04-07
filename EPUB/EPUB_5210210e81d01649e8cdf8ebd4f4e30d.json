@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-lang_19266.html",
+    "title" : "Tĩnh Lặng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 15043,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_5210210e81d01649e8cdf8ebd4f4e30d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_5210210e81d01649e8cdf8ebd4f4e30d.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-lang-1/tinh-lang-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "tinh-lang-1"
+  }, {
+    "href" : "https://archive.org/download/tinh-lang-1/tinh-lang-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "tinh-lang-2"
+  }, {
+    "href" : "https://archive.org/download/tinh-lang-1/tinh-lang-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "tinh-lang-3"
+  }, {
+    "href" : "https://archive.org/download/tinh-lang-1/tinh-lang-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "tinh-lang-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-lang-1/tinh-lang-1.mp3",
+    "title" : "tinh-lang-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-lang-1/tinh-lang-2.mp3",
+    "title" : "tinh-lang-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-lang-1/tinh-lang-3.mp3",
+    "title" : "tinh-lang-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-lang-1/tinh-lang-4.mp3",
+    "title" : "tinh-lang-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

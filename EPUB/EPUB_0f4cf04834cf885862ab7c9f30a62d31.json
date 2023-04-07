@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nang-ganh-cang-thuong_19391.html",
+    "title" : "Nặng Gánh Cang Thường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 18017,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_0f4cf04834cf885862ab7c9f30a62d31.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_0f4cf04834cf885862ab7c9f30a62d31.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "no-ganh-1"
+  }, {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "no-ganh-2"
+  }, {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "no-ganh-3"
+  }, {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "no-ganh-4"
+  }, {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "no-ganh-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-1.mp3",
+    "title" : "no-ganh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-2.mp3",
+    "title" : "no-ganh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-3.mp3",
+    "title" : "no-ganh-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-4.mp3",
+    "title" : "no-ganh-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/no-ganh-1/no-ganh-5.mp3",
+    "title" : "no-ganh-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

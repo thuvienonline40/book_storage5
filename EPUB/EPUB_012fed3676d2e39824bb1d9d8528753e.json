@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngu-it-van-khoe-5-tieng-la-du-sao-phai-la-8_19440.html",
+    "title" : "Ngủ Ít Vẫn Khỏe - 5 Tiếng Là Đủ Sao Phải Là 8?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Satoru Tsubota",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 11191,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_012fed3676d2e39824bb1d9d8528753e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_012fed3676d2e39824bb1d9d8528753e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngu-it/ngu-it.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11191,
+    "title" : "ngu-it"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngu-it/ngu-it.mp3",
+    "title" : "ngu-it",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

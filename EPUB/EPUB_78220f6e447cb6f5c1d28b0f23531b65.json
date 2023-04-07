@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhan-duyen-cuoc-doi_19783.html",
+    "title" : "Nhân Duyên Cuộc Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Bối",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 1926,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_78220f6e447cb6f5c1d28b0f23531b65.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_78220f6e447cb6f5c1d28b0f23531b65.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhan-duyen/nhan-duyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "nhan-duyen"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhan-duyen/nhan-duyen.mp3",
+    "title" : "nhan-duyen",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
