@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi_19992.html",
+    "title" : "Giới Hạn Của Bạn Chỉ Là Xuất Phát Điểm Của Tôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mèo Maverick",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 20686,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_69134d8cb2924f469d0906b2e72ca4e6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_69134d8cb2924f469d0906b2e72ca4e6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi.sna/CHUONG%201%20-%20CO%20UOC%20MO%20MA%20KHONG%20HANG%20DONG%2C%20MAI%20MAI%20CHANG%20BAO%20GIO%20THUC%20HIEN%20DUOC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6251,
+    "title" : "CHUONG 1 - CO UOC MO MA KHONG HANG DONG, MAI MAI CHANG BAO GIO THUC HIEN DUOC"
+  }, {
+    "href" : "https://archive.org/download/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi.sna/CHUONG%202%20-%20TIN%20TUONG%20CHINH%20BAN%20THAN%20MINH%2C%20KHA%20NANG%20CUA%20BAN%20SE%20CON%20VUON%20XA%20HON.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7036,
+    "title" : "CHUONG 2 - TIN TUONG CHINH BAN THAN MINH, KHA NANG CUA BAN SE CON VUON XA HON"
+  }, {
+    "href" : "https://archive.org/download/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi.sna/CHUONG%203%20-%20CO%20GANG%20CO%20HIEU%20QUA%20CHU%20DUNG%20CHI%20GIA%20VO%20CO%20GANG.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4101,
+    "title" : "CHUONG 3 - CO GANG CO HIEU QUA CHU DUNG CHI GIA VO CO GANG"
+  }, {
+    "href" : "https://archive.org/download/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi.sna/CHUONG%204%20-%20HOC%20TAP%20GIUP%20CUOC%20SONG%20CUA%20BAN%20TOT%20DEP%20HON.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "CHUONG 4 - HOC TAP GIUP CUOC SONG CUA BAN TOT DEP HON"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi.sna/CHUONG%201%20-%20CO%20UOC%20MO%20MA%20KHONG%20HANG%20DONG%2C%20MAI%20MAI%20CHANG%20BAO%20GIO%20THUC%20HIEN%20DUOC.mp3",
+    "title" : "CHUONG 1 - CO UOC MO MA KHONG HANG DONG, MAI MAI CHANG BAO GIO THUC HIEN DUOC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi.sna/CHUONG%202%20-%20TIN%20TUONG%20CHINH%20BAN%20THAN%20MINH%2C%20KHA%20NANG%20CUA%20BAN%20SE%20CON%20VUON%20XA%20HON.mp3",
+    "title" : "CHUONG 2 - TIN TUONG CHINH BAN THAN MINH, KHA NANG CUA BAN SE CON VUON XA HON",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi.sna/CHUONG%203%20-%20CO%20GANG%20CO%20HIEU%20QUA%20CHU%20DUNG%20CHI%20GIA%20VO%20CO%20GANG.mp3",
+    "title" : "CHUONG 3 - CO GANG CO HIEU QUA CHU DUNG CHI GIA VO CO GANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gioi-han-cua-ban-chi-la-xuat-phat-diem-cua-toi.sna/CHUONG%204%20-%20HOC%20TAP%20GIUP%20CUOC%20SONG%20CUA%20BAN%20TOT%20DEP%20HON.mp3",
+    "title" : "CHUONG 4 - HOC TAP GIUP CUOC SONG CUA BAN TOT DEP HON",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
