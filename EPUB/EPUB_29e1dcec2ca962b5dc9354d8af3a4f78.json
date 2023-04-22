@@ -1,0 +1,156 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-dan-ba-tren-chuyen-tau-toc-hanh_20025.html",
+    "title" : "Người Đàn Bà Trên Chuyến Tàu Tốc Hành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 46406,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_29e1dcec2ca962b5dc9354d8af3a4f78.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_29e1dcec2ca962b5dc9354d8af3a4f78.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6529,
+    "title" : "nguoi-dan-1"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "nguoi-dan-10"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7056,
+    "title" : "nguoi-dan-11"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1163,
+    "title" : "nguoi-dan-12"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2339,
+    "title" : "nguoi-dan-2"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8811,
+    "title" : "nguoi-dan-3"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2722,
+    "title" : "nguoi-dan-4"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1712,
+    "title" : "nguoi-dan-5"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2331,
+    "title" : "nguoi-dan-6"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6057,
+    "title" : "nguoi-dan-7"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "nguoi-dan-8"
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1699,
+    "title" : "nguoi-dan-9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-1.mp3",
+    "title" : "nguoi-dan-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-10.mp3",
+    "title" : "nguoi-dan-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-11.mp3",
+    "title" : "nguoi-dan-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-12.mp3",
+    "title" : "nguoi-dan-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-2.mp3",
+    "title" : "nguoi-dan-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-3.mp3",
+    "title" : "nguoi-dan-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-4.mp3",
+    "title" : "nguoi-dan-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-5.mp3",
+    "title" : "nguoi-dan-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-6.mp3",
+    "title" : "nguoi-dan-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-7.mp3",
+    "title" : "nguoi-dan-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-8.mp3",
+    "title" : "nguoi-dan-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dan-3/nguoi-dan-9.mp3",
+    "title" : "nguoi-dan-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

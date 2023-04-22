@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/elon-musk-tu-uoc-mo-den-hanh-trinh-qua-giang-vao-ngan-ha_20091.html",
+    "title" : "Elon Musk Từ Ước Mơ Đến Hành Trình Quá Giang Vào Ngân Hà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ashlee Vance",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 19598,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_d04eedbb489e9cd90e40b5889ff2e21b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_d04eedbb489e9cd90e40b5889ff2e21b.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/elon-1/elon-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "elon-1"
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "elon-2"
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "elon-3"
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "elon-4"
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "elon-5"
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1598,
+    "title" : "elon-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/elon-1/elon-1.mp3",
+    "title" : "elon-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-2.mp3",
+    "title" : "elon-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-3.mp3",
+    "title" : "elon-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-4.mp3",
+    "title" : "elon-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-5.mp3",
+    "title" : "elon-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/elon-1/elon-6.mp3",
+    "title" : "elon-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

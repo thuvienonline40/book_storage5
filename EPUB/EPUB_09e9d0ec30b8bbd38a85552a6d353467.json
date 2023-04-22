@@ -1,0 +1,266 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuyen-tap-truyen-ngan-phat-giao_20071.html",
+    "title" : "Tuyển Tập Truyện Ngắn Phật Giáo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 9072,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_09e9d0ec30b8bbd38a85552a6d353467.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_09e9d0ec30b8bbd38a85552a6d353467.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 67,
+    "title" : "01_Tap-01_Loi-Gioi-Thieu"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 819,
+    "title" : "02_Tap-01_Co-Con-Gai-Meo"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 778,
+    "title" : "03_Tap-01_San-Chua-Xao-Xac-Gio"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 614,
+    "title" : "04_Tap-01_Ba-Ba-va-Con-Cho-Gia"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 639,
+    "title" : "05_Tap-01_Chim-So-Long"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 637,
+    "title" : "06_Tap-01_Chua-Trong-Resort"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 878,
+    "title" : "07_Tap-01_Tam-Ve-Di-Bo-Ben-Kia"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 877,
+    "title" : "08_Tap-01_Xoa-No-Tran-Gian_Tuan-Anh"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 78,
+    "title" : "09_Tap-02_Loi-Noi-Dau"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 272,
+    "title" : "10_Tap-02_Truyen-1_An-Trong-Vi-Man"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 341,
+    "title" : "11_Tap-02_Truyen-2_Ban-Lam-Gi-Trong-60-Phut-Cuoi-Doi-Minh"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 282,
+    "title" : "12_Tap-02_Truyen-3_Cai-Dau-Troc-Cua-Cha"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 285,
+    "title" : "13_Tap-02_Truyen-4_Choi-Voi Canh-Hoa-Dau"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 256,
+    "title" : "14_Tap-02_Truyen-5_Chua-va-So-Khong"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 239,
+    "title" : "15_Tap-02_Truyen-6_Chut-Doi-Trong-Mua"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 249,
+    "title" : "16_Tap-02_Truyen-7_Chuyen-Ben-Duong"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 273,
+    "title" : "17_Tap-02_Truyen-8_Com-Chay"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 247,
+    "title" : "18_Tap-02_Truyen-9_Goi-Tinh-Thuong-Mang-Ve"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 325,
+    "title" : "19_Tap-02_Truyen-10_Ket-Noi-Niem-Hanh-Phuc"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 291,
+    "title" : "20_Tap-02_Truyen-11_Loi-Nhan-Tu-Bo-Ben-Kia"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 198,
+    "title" : "21_Tap-02_Truyen-12_Mo-Mieng-Bao-La-Mo-Tam-Long"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 262,
+    "title" : "22_Tap-02_Truyen-13_Sao-Khong-Phai-La-Toi"
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 165,
+    "title" : "23_Tap-02_Truyen-14_Thanh-Pho-va-Tieng-Sao-Chot-Nghe"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-01.mp3",
+    "title" : "01_Tap-01_Loi-Gioi-Thieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-02.mp3",
+    "title" : "02_Tap-01_Co-Con-Gai-Meo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-03.mp3",
+    "title" : "03_Tap-01_San-Chua-Xao-Xac-Gio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-04.mp3",
+    "title" : "04_Tap-01_Ba-Ba-va-Con-Cho-Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-05.mp3",
+    "title" : "05_Tap-01_Chim-So-Long",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-06.mp3",
+    "title" : "06_Tap-01_Chua-Trong-Resort",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-07.mp3",
+    "title" : "07_Tap-01_Tam-Ve-Di-Bo-Ben-Kia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-08.mp3",
+    "title" : "08_Tap-01_Xoa-No-Tran-Gian_Tuan-Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-09.mp3",
+    "title" : "09_Tap-02_Loi-Noi-Dau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-10.mp3",
+    "title" : "10_Tap-02_Truyen-1_An-Trong-Vi-Man",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-11.mp3",
+    "title" : "11_Tap-02_Truyen-2_Ban-Lam-Gi-Trong-60-Phut-Cuoi-Doi-Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-12.mp3",
+    "title" : "12_Tap-02_Truyen-3_Cai-Dau-Troc-Cua-Cha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-13.mp3",
+    "title" : "13_Tap-02_Truyen-4_Choi-Voi Canh-Hoa-Dau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-14.mp3",
+    "title" : "14_Tap-02_Truyen-5_Chua-va-So-Khong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-15.mp3",
+    "title" : "15_Tap-02_Truyen-6_Chut-Doi-Trong-Mua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-16.mp3",
+    "title" : "16_Tap-02_Truyen-7_Chuyen-Ben-Duong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-17.mp3",
+    "title" : "17_Tap-02_Truyen-8_Com-Chay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-18.mp3",
+    "title" : "18_Tap-02_Truyen-9_Goi-Tinh-Thuong-Mang-Ve",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-19.mp3",
+    "title" : "19_Tap-02_Truyen-10_Ket-Noi-Niem-Hanh-Phuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-20.mp3",
+    "title" : "20_Tap-02_Truyen-11_Loi-Nhan-Tu-Bo-Ben-Kia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-21.mp3",
+    "title" : "21_Tap-02_Truyen-12_Mo-Mieng-Bao-La-Mo-Tam-Long",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-22.mp3",
+    "title" : "22_Tap-02_Truyen-13_Sao-Khong-Phai-La-Toi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-07/tuyen-tap-23.mp3",
+    "title" : "23_Tap-02_Truyen-14_Thanh-Pho-va-Tieng-Sao-Chot-Nghe",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

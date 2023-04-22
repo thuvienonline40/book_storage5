@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-bi-viec-no-hoa-toi-thuong-cua-tinh-yeu_20102.html",
+    "title" : "Từ Bi - Việc Nở Hoa Tối Thượng Của Tình Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 20833,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_ed79956ca4056446270cb429c03dd5fd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_ed79956ca4056446270cb429c03dd5fd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/osho-tu-bi-phan-4/Osho%20Tu%20Bi%20-%20Phan%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5069,
+    "title" : "TỪ BI || TRÊN CẢ TRẮC ẨN VÀ YÊU THƯƠNG- OSHO -P1"
+  }, {
+    "href" : "https://archive.org/download/osho-tu-bi-phan-4/Osho%20Tu%20Bi%20-%20Phan%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4964,
+    "title" : "TỪ BI || TRÊN CẢ TRẮC ẨN VÀ YÊU THƯƠNG- OSHO -P2"
+  }, {
+    "href" : "https://archive.org/download/osho-tu-bi-phan-4/Osho%20Tu%20Bi%20-%20Phan%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5211,
+    "title" : "TỪ BI || TRÊN CẢ TRẮC ẨN VÀ YÊU THƯƠNG- OSHO -P3"
+  }, {
+    "href" : "https://archive.org/download/osho-tu-bi-phan-4/Osho%20Tu%20Bi%20-%20Phan%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5589,
+    "title" : "TỪ BI || TRÊN CẢ TRẮC ẨN VÀ YÊU THƯƠNG- OSHO -P4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/osho-tu-bi-phan-4/Osho%20Tu%20Bi%20-%20Phan%201.mp3",
+    "title" : "TỪ BI || TRÊN CẢ TRẮC ẨN VÀ YÊU THƯƠNG- OSHO -P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/osho-tu-bi-phan-4/Osho%20Tu%20Bi%20-%20Phan%202.mp3",
+    "title" : "TỪ BI || TRÊN CẢ TRẮC ẨN VÀ YÊU THƯƠNG- OSHO -P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/osho-tu-bi-phan-4/Osho%20Tu%20Bi%20-%20Phan%203.mp3",
+    "title" : "TỪ BI || TRÊN CẢ TRẮC ẨN VÀ YÊU THƯƠNG- OSHO -P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/osho-tu-bi-phan-4/Osho%20Tu%20Bi%20-%20Phan%204.mp3",
+    "title" : "TỪ BI || TRÊN CẢ TRẮC ẨN VÀ YÊU THƯƠNG- OSHO -P4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

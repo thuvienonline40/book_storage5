@@ -1,0 +1,336 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cho-la-nhan_20105.html",
+    "title" : "Cho Là Nhận",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 36608,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/EPUB/EPUB_464f631cf55146552a2da67bf7951dc2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/IMAGE/IMAGE_464f631cf55146552a2da67bf7951dc2.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/01.%20C01_ThanPhanConNguoi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1309,
+    "title" : "01. C01 ThanPhanConNguoi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/01._C01_ThanPhanConNguoi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1309,
+    "title" : "01. C01 ThanPhanConNguoi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/02.%20C02_NhungDuocMatTrongDoi_CholaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1062,
+    "title" : "02. C02 NhungDuocMatTrongDoi CholaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/02._C02_NhungDuocMatTrongDoi_CholaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1062,
+    "title" : "02. C02 NhungDuocMatTrongDoi CholaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/03.%20C03_NhungGiaTriTrongCuocSong_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "03. C03 NhungGiaTriTrongCuocSong ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/03._C03_NhungGiaTriTrongCuocSong_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "03. C03 NhungGiaTriTrongCuocSong ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/04.%20C04_DuocVaMat_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 648,
+    "title" : "04. C04 DuocVaMat ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/04._C04_DuocVaMat_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 648,
+    "title" : "04. C04 DuocVaMat ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/05.%20C05_HayRongMoTamHon_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "05. C05 HayRongMoTamHon ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/05._C05_HayRongMoTamHon_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "05. C05 HayRongMoTamHon ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/06.%20C06_ConDuongChiaSe_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 791,
+    "title" : "06. C06 ConDuongChiaSe ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/06._C06_ConDuongChiaSe_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 791,
+    "title" : "06. C06 ConDuongChiaSe ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/07.%20C07A_ChiaSeNhungGi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2610,
+    "title" : "07. C07A ChiaSeNhungGi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/07._C07A_ChiaSeNhungGi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2610,
+    "title" : "07. C07A ChiaSeNhungGi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/08.%20C07B_ChiaSeNhungGi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "08. C07B ChiaSeNhungGi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/08._C07B_ChiaSeNhungGi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "08. C07B ChiaSeNhungGi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/09.%20C08_PhapThi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 495,
+    "title" : "09. C08 PhapThi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/09._C08_PhapThi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 495,
+    "title" : "09. C08 PhapThi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/10.%20C09_VoUyThi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 506,
+    "title" : "10. C09 VoUyThi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/10._C09_VoUyThi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 506,
+    "title" : "10. C09 VoUyThi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/11.%20C10_PhapThiThangMoiThi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 222,
+    "title" : "11. C10 PhapThiThangMoiThi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/11._C10_PhapThiThangMoiThi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 222,
+    "title" : "11. C10 PhapThiThangMoiThi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/12.%20C11_ChoLaNhan_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1931,
+    "title" : "12. C11 ChoLaNhan ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/12._C11_ChoLaNhan_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1931,
+    "title" : "12. C11 ChoLaNhan ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/13.%20C12_ThayLoiKet_YNghiaCuocDoi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 605,
+    "title" : "13. C12 ThayLoiKet YNghiaCuocDoi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/13._C12_ThayLoiKet_YNghiaCuocDoi_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 605,
+    "title" : "13. C12 ThayLoiKet YNghiaCuocDoi ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/14.%20C13_PhuLuc1_ViNgotCuaChe_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 456,
+    "title" : "14. C13 PhuLuc1 ViNgotCuaChe ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/14._C13_PhuLuc1_ViNgotCuaChe_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 456,
+    "title" : "14. C13 PhuLuc1 ViNgotCuaChe ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/15.%20C14_PhuLuc2_CuocSongNam2070_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 808,
+    "title" : "15. C14 PhuLuc2 CuocSongNam2070 ChoLaNhan"
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/15._C14_PhuLuc2_CuocSongNam2070_ChoLaNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 808,
+    "title" : "15. C14 PhuLuc2 CuocSongNam2070 ChoLaNhan"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/01.%20C01_ThanPhanConNguoi_ChoLaNhan.mp3",
+    "title" : "01. C01 ThanPhanConNguoi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/01._C01_ThanPhanConNguoi_ChoLaNhan.mp3",
+    "title" : "01. C01 ThanPhanConNguoi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/02.%20C02_NhungDuocMatTrongDoi_CholaNhan.mp3",
+    "title" : "02. C02 NhungDuocMatTrongDoi CholaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/02._C02_NhungDuocMatTrongDoi_CholaNhan.mp3",
+    "title" : "02. C02 NhungDuocMatTrongDoi CholaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/03.%20C03_NhungGiaTriTrongCuocSong_ChoLaNhan.mp3",
+    "title" : "03. C03 NhungGiaTriTrongCuocSong ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/03._C03_NhungGiaTriTrongCuocSong_ChoLaNhan.mp3",
+    "title" : "03. C03 NhungGiaTriTrongCuocSong ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/04.%20C04_DuocVaMat_ChoLaNhan.mp3",
+    "title" : "04. C04 DuocVaMat ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/04._C04_DuocVaMat_ChoLaNhan.mp3",
+    "title" : "04. C04 DuocVaMat ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/05.%20C05_HayRongMoTamHon_ChoLaNhan.mp3",
+    "title" : "05. C05 HayRongMoTamHon ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/05._C05_HayRongMoTamHon_ChoLaNhan.mp3",
+    "title" : "05. C05 HayRongMoTamHon ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/06.%20C06_ConDuongChiaSe_ChoLaNhan.mp3",
+    "title" : "06. C06 ConDuongChiaSe ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/06._C06_ConDuongChiaSe_ChoLaNhan.mp3",
+    "title" : "06. C06 ConDuongChiaSe ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/07.%20C07A_ChiaSeNhungGi_ChoLaNhan.mp3",
+    "title" : "07. C07A ChiaSeNhungGi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/07._C07A_ChiaSeNhungGi_ChoLaNhan.mp3",
+    "title" : "07. C07A ChiaSeNhungGi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/08.%20C07B_ChiaSeNhungGi_ChoLaNhan.mp3",
+    "title" : "08. C07B ChiaSeNhungGi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/08._C07B_ChiaSeNhungGi_ChoLaNhan.mp3",
+    "title" : "08. C07B ChiaSeNhungGi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/09.%20C08_PhapThi_ChoLaNhan.mp3",
+    "title" : "09. C08 PhapThi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/09._C08_PhapThi_ChoLaNhan.mp3",
+    "title" : "09. C08 PhapThi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/10.%20C09_VoUyThi_ChoLaNhan.mp3",
+    "title" : "10. C09 VoUyThi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/10._C09_VoUyThi_ChoLaNhan.mp3",
+    "title" : "10. C09 VoUyThi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/11.%20C10_PhapThiThangMoiThi_ChoLaNhan.mp3",
+    "title" : "11. C10 PhapThiThangMoiThi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/11._C10_PhapThiThangMoiThi_ChoLaNhan.mp3",
+    "title" : "11. C10 PhapThiThangMoiThi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/12.%20C11_ChoLaNhan_ChoLaNhan.mp3",
+    "title" : "12. C11 ChoLaNhan ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/12._C11_ChoLaNhan_ChoLaNhan.mp3",
+    "title" : "12. C11 ChoLaNhan ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/13.%20C12_ThayLoiKet_YNghiaCuocDoi_ChoLaNhan.mp3",
+    "title" : "13. C12 ThayLoiKet YNghiaCuocDoi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/13._C12_ThayLoiKet_YNghiaCuocDoi_ChoLaNhan.mp3",
+    "title" : "13. C12 ThayLoiKet YNghiaCuocDoi ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/14.%20C13_PhuLuc1_ViNgotCuaChe_ChoLaNhan.mp3",
+    "title" : "14. C13 PhuLuc1 ViNgotCuaChe ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/14._C13_PhuLuc1_ViNgotCuaChe_ChoLaNhan.mp3",
+    "title" : "14. C13 PhuLuc1 ViNgotCuaChe ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/15.%20C14_PhuLuc2_CuocSongNam2070_ChoLaNhan.mp3",
+    "title" : "15. C14 PhuLuc2 CuocSongNam2070 ChoLaNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-la-nhan.sna/15._C14_PhuLuc2_CuocSongNam2070_ChoLaNhan.mp3",
+    "title" : "15. C14 PhuLuc2 CuocSongNam2070 ChoLaNhan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
