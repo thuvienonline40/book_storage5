@@ -1,0 +1,673 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZfzZ-8XI/AAAAAAAABFk/PXUXTXC6mFE/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZg8qyUyI/AAAAAAAABFs/dru4A9Z52x0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZhlkiaII/AAAAAAAABF0/LWQNpAX8L-8/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZiZbBpNI/AAAAAAAABF8/p5pwmET0T18/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZjLt8hqI/AAAAAAAABGE/f9if1EZu4dQ/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZkM2uCYI/AAAAAAAABGI/N-8WG9gtQxg/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZkzs18aI/AAAAAAAABGM/NBDQS5IMqBA/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZm_6PfOI/AAAAAAAABGU/WNpwbDR0Kz0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZngRsY0I/AAAAAAAABGc/TFuvVEzAQDM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZobkbzdI/AAAAAAAABGo/X-0mUQnXEno/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZpAH8hNI/AAAAAAAABGs/b9GNk61N0_s/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZp8wTNYI/AAAAAAAABGw/3k9ueqlSgSQ/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZqsb-elI/AAAAAAAABG4/jp08GOwdS-Q/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZrQCbpLI/AAAAAAAABHA/OXxNwI_f9JQ/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZsKBHc4I/AAAAAAAABHQ/P0gm1LkWdq0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZtKvGuEI/AAAAAAAABHc/ueyxA7U6w4Y/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZt_fkxDI/AAAAAAAABHk/vpjLtbFYWAA/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZuv7c-gI/AAAAAAAABHs/JbCG54qKv7A/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZvlBSBvI/AAAAAAAABH4/6TPJD85bNL0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZwngmEpI/AAAAAAAABIA/wcsp_RI6SRc/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZxe2jo4I/AAAAAAAABII/2Crxim1AlBc/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZybgi-hI/AAAAAAAABIU/Bqg6llGUCiY/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZzUkut3I/AAAAAAAABIg/Ha0g8Zfh0so/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ0Bi8LbI/AAAAAAAABIo/1gv4JzLkElk/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ1CphUrI/AAAAAAAABIw/iHw3d9tKleU/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ1xlmL4I/AAAAAAAABI0/LvZvPYBTqCY/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ2j1m5SI/AAAAAAAABI8/5UvSSyHOC-4/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZ3UQFNNI/AAAAAAAABJE/cBbmmoDbzdM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ6GwH4pI/AAAAAAAABJY/ddME9N8fJL4/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ68v0-gI/AAAAAAAABJk/v4Nh3aRmMYA/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ7yXmaWI/AAAAAAAABJs/l_3qMa4iMtU/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ8oPD07I/AAAAAAAABJ0/tNK8Fgrj3aI/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ9qBtELI/AAAAAAAABJ8/JvyqQGHav54/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ-mo_8kI/AAAAAAAABKE/X4SgqEyiueo/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ_TI80kI/AAAAAAAABKM/IXBJsI4FLtg/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaAF7iSII/AAAAAAAABKU/_hzm_Im-p2k/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaBLkAhwI/AAAAAAAABKc/D9tJk7lOqng/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaBuu9ruI/AAAAAAAABKk/ps8jTtqIT0A/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaCYUHUwI/AAAAAAAABKs/vie5z1-bRRM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaDP_ZN0I/AAAAAAAABK4/SFVgZZSInAM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaD9RMk4I/AAAAAAAABLA/zH2HY_6n7Cs/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaE0Z-Z8I/AAAAAAAABLk/DfTD4rUtpw0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaLsBoiOI/AAAAAAAABLw/noQzpFym4vM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaMwyzKQI/AAAAAAAABMA/aidg8ZNobgw/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaN-vAACI/AAAAAAAABMI/WtsUUGC_5R8/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZfzZ-8XI/AAAAAAAABFk/PXUXTXC6mFE/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZg8qyUyI/AAAAAAAABFs/dru4A9Z52x0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZhlkiaII/AAAAAAAABF0/LWQNpAX8L-8/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZiZbBpNI/AAAAAAAABF8/p5pwmET0T18/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZjLt8hqI/AAAAAAAABGE/f9if1EZu4dQ/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZkM2uCYI/AAAAAAAABGI/N-8WG9gtQxg/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZkzs18aI/AAAAAAAABGM/NBDQS5IMqBA/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZm_6PfOI/AAAAAAAABGU/WNpwbDR0Kz0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZngRsY0I/AAAAAAAABGc/TFuvVEzAQDM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZobkbzdI/AAAAAAAABGo/X-0mUQnXEno/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZpAH8hNI/AAAAAAAABGs/b9GNk61N0_s/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZp8wTNYI/AAAAAAAABGw/3k9ueqlSgSQ/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZqsb-elI/AAAAAAAABG4/jp08GOwdS-Q/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZrQCbpLI/AAAAAAAABHA/OXxNwI_f9JQ/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZsKBHc4I/AAAAAAAABHQ/P0gm1LkWdq0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZtKvGuEI/AAAAAAAABHc/ueyxA7U6w4Y/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZt_fkxDI/AAAAAAAABHk/vpjLtbFYWAA/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZuv7c-gI/AAAAAAAABHs/JbCG54qKv7A/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZvlBSBvI/AAAAAAAABH4/6TPJD85bNL0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZwngmEpI/AAAAAAAABIA/wcsp_RI6SRc/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZxe2jo4I/AAAAAAAABII/2Crxim1AlBc/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZybgi-hI/AAAAAAAABIU/Bqg6llGUCiY/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZzUkut3I/AAAAAAAABIg/Ha0g8Zfh0so/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ0Bi8LbI/AAAAAAAABIo/1gv4JzLkElk/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ1CphUrI/AAAAAAAABIw/iHw3d9tKleU/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ1xlmL4I/AAAAAAAABI0/LvZvPYBTqCY/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ2j1m5SI/AAAAAAAABI8/5UvSSyHOC-4/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZ3UQFNNI/AAAAAAAABJE/cBbmmoDbzdM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ6GwH4pI/AAAAAAAABJY/ddME9N8fJL4/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ68v0-gI/AAAAAAAABJk/v4Nh3aRmMYA/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ7yXmaWI/AAAAAAAABJs/l_3qMa4iMtU/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ8oPD07I/AAAAAAAABJ0/tNK8Fgrj3aI/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ9qBtELI/AAAAAAAABJ8/JvyqQGHav54/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ-mo_8kI/AAAAAAAABKE/X4SgqEyiueo/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ_TI80kI/AAAAAAAABKM/IXBJsI4FLtg/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaAF7iSII/AAAAAAAABKU/_hzm_Im-p2k/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaBLkAhwI/AAAAAAAABKc/D9tJk7lOqng/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaBuu9ruI/AAAAAAAABKk/ps8jTtqIT0A/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaCYUHUwI/AAAAAAAABKs/vie5z1-bRRM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaDP_ZN0I/AAAAAAAABK4/SFVgZZSInAM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaD9RMk4I/AAAAAAAABLA/zH2HY_6n7Cs/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaE0Z-Z8I/AAAAAAAABLk/DfTD4rUtpw0/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaLsBoiOI/AAAAAAAABLw/noQzpFym4vM/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaMwyzKQI/AAAAAAAABMA/aidg8ZNobgw/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaN-vAACI/AAAAAAAABMI/WtsUUGC_5R8/Lucky%20Luke%20Tap%2004%20Tu%20Quai%20Dalton%20Va%20Kho%20Tang%20Tren%20Doi%20Da%20Do-lluke-04bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

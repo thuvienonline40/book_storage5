@@ -1,0 +1,372 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnn_N1rrZI/AAAAAAAACcg/DNx2PibUx3k/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnn_xZEc7I/AAAAAAAACco/ttxppR3i4Mw/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnoCz_vMRI/AAAAAAAACc0/azdsJuTnJR0/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnoDvSJ_hI/AAAAAAAACc8/l_FM_5GTJKY/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnoEqdplYI/AAAAAAAACdE/uozBgaLwQzU/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnoFRta1JI/AAAAAAAACdI/3Mvsb_bX0a0/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnoGERQLvI/AAAAAAAACdM/Vz4TCw2Jrco/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnoG_tcdbI/AAAAAAAACdQ/DPYdCKasqSQ/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnoJ5cjOTI/AAAAAAAACdY/YsLdzbnfWlI/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnoK-KbIzI/AAAAAAAACdg/rOp2uqIG6O0/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnoLuX56GI/AAAAAAAACdk/URgkEjAlw9Y/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnoTMG5F7I/AAAAAAAACdw/-MTQ-GFADn8/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnoT2W6ETI/AAAAAAAACd0/fUYH1npb8LY/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnoUsE0_cI/AAAAAAAACd4/aYqJZOH3n1k/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnoXqNoFeI/AAAAAAAACeA/hyfTUeCfDo8/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnoYWTBYHI/AAAAAAAACeE/mSYfIH7UqbQ/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnoZVHypcI/AAAAAAAACeM/S7E45UFa5Pk/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnoZwn1PgI/AAAAAAAACeQ/M62s6z1-1Qs/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnoary8azI/AAAAAAAACeU/HbFXFl1Mkls/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnof7iIsRI/AAAAAAAACes/7LtuMI2WeSo/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnog_rao8I/AAAAAAAACew/9EnYN8GprD8/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnolnXT6tI/AAAAAAAACfA/V2RvXc6dyIA/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnomS2ns6I/AAAAAAAACfE/cfvhrINyjNw/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnopkXt1-I/AAAAAAAACfI/ADcD7q3eJpQ/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnosh3GQOI/AAAAAAAACfc/-atIM3pwfVc/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnotSCMxYI/AAAAAAAACfg/7NRsynWNS8c/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbno037yn2I/AAAAAAAACf8/pGl1kkloOAI/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbno1uMZSEI/AAAAAAAACgA/HS7QTN1Ak18/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbno2RizQkI/AAAAAAAACgE/KWPnQQEEQvY/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbno5cZp8bI/AAAAAAAACgQ/8OeqxOsvMXw/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbno6D8HxbI/AAAAAAAACgY/UpfZ8uxnS08/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbno6_NV5GI/AAAAAAAACgk/lcZHmWei7yw/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbno78ptbOI/AAAAAAAACgo/OEqrZRk6120/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbno8q5conI/AAAAAAAACgs/Q2Uhv-S-Am8/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbno9M-UidI/AAAAAAAACgw/0s2oPzxO5Po/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnpAXI8-EI/AAAAAAAACg8/sps7840pNLc/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnpBGGn9sI/AAAAAAAAChA/ioYE8geo_14/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnpCFplkcI/AAAAAAAAChI/YDoY02RozxA/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnpCxBnrUI/AAAAAAAAChM/b-jWe3xDmuQ/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnpDhwlW3I/AAAAAAAAChU/hZie_tldN04/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnpGlgW5iI/AAAAAAAAChk/K5IrUBnexe8/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnpHT1F1DI/AAAAAAAACho/z4TnwlDfn9A/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnpKS6BZDI/AAAAAAAACh0/PlBRFNlA3NE/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnpLBa1bJI/AAAAAAAACh4/3tq0Q8veoxU/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnpQesyySI/AAAAAAAACiE/MxTmr8sweic/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39-45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnpRB1qOTI/AAAAAAAACiM/GWPFzJTPcSs/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnpR08d7UI/AAAAAAAACiU/uUiz_MH39Vw/Lucky%20Luke%20Tap%2043%20Soi%20Day%20Treo%20Co-Lucky%20Luke%20Tap%2039%20Soi%20Day%20Treo%20Co-lluke-39bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

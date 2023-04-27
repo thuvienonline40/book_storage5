@@ -1,0 +1,687 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZtUGFAFI/AAAAAAAABHg/JKlwRfO5U6A/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZuOReVhI/AAAAAAAABHo/ufSGi7mFWBw/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZu_Cj67I/AAAAAAAABHw/M1N1rZXj6-g/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZvh2IXPI/AAAAAAAABH0/7IYJyIDDNGI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZwJf_bnI/AAAAAAAABH8/WwJC-4darcg/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZw2fHPxI/AAAAAAAABIE/Dtok3KBp7v0/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZx8zi4WI/AAAAAAAABIQ/Ynexd-cRqAI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZygQhl1I/AAAAAAAABIY/YLZj8krHhzQ/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZzSz9PVI/AAAAAAAABIc/8EnnNiRnDLo/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ0GEEFgI/AAAAAAAABIk/ySVtXZZZwhU/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ0z7V7bI/AAAAAAAABIs/BXQZ3OEaPbo/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZ1-gjkrI/AAAAAAAABI4/BfQV2JWCzvU/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ20WBDBI/AAAAAAAABJA/kGE3cdab_Rs/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ3vuKjwI/AAAAAAAABJI/MmxwV6TtXYI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ4QRu4EI/AAAAAAAABJM/KNi6izeNEbY/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ5LFNm1I/AAAAAAAABJQ/p7zEhUd0TaE/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZ57Uf4SI/AAAAAAAABJU/WOWtw_mbsic/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ63WJJTI/AAAAAAAABJg/PCRT0JY0eoU/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ7u4FDII/AAAAAAAABJo/ugK7aLM0L9k/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ8te3NwI/AAAAAAAABJw/92lB_79AaM0/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ9cbmXdI/AAAAAAAABJ4/2mtzqhT3oUE/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ-BEb2UI/AAAAAAAABKA/kXTB9BdFXp4/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZ-3nXKmI/AAAAAAAABKI/vxdj9goDKOE/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ_c1MJrI/AAAAAAAABKQ/9IxVyo8dtVk/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaAxdqz0I/AAAAAAAABKY/GaRwP02Ng34/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaBidnQVI/AAAAAAAABKg/uaC7yMmR1vM/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaCQ5lglI/AAAAAAAABKo/SxwfWZ3ta7E/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaDAjMqTI/AAAAAAAABK8/1fyTHDFATMw/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaD1U2nTI/AAAAAAAABLE/IvzUAY3dL8w/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaEzUiODI/AAAAAAAABLI/qLScuC5N7RM/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaFhgZwpI/AAAAAAAABLM/2KVy289HQNI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaGqBZFkI/AAAAAAAABLQ/g6qBzAXuq2s/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaHpnwEVI/AAAAAAAABLU/ECtVtQgtYgw/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaIbuqNkI/AAAAAAAABLY/bV3RKxJfCXY/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaJPU-OBI/AAAAAAAABLc/BsUmv2rnlqA/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaKAcuYVI/AAAAAAAABLg/1XnS27LtIEc/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaK57XWoI/AAAAAAAABLo/uIkDWq6kvIY/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaLtFHTtI/AAAAAAAABLs/hbDtiY2eNWI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaMWEsnfI/AAAAAAAABL4/j-HhUHo3uH4/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaM__cNzI/AAAAAAAABL8/Wfj2oQO7Hc8/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaN19QF5I/AAAAAAAABME/zKFA0LyBn6Q/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaOuYCzgI/AAAAAAAABMQ/TWcMVzgUFGU/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaPWZ0shI/AAAAAAAABMU/7fObA1JuGTQ/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaQCJS4pI/AAAAAAAABMY/VKrMyhDC6tE/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaQuD7muI/AAAAAAAABMc/hk6A-rbU6rc/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaRYZrcMI/AAAAAAAABMg/gv4je99iRS4/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-bia3.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZtUGFAFI/AAAAAAAABHg/JKlwRfO5U6A/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZuOReVhI/AAAAAAAABHo/ufSGi7mFWBw/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZu_Cj67I/AAAAAAAABHw/M1N1rZXj6-g/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZvh2IXPI/AAAAAAAABH0/7IYJyIDDNGI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZwJf_bnI/AAAAAAAABH8/WwJC-4darcg/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZw2fHPxI/AAAAAAAABIE/Dtok3KBp7v0/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZx8zi4WI/AAAAAAAABIQ/Ynexd-cRqAI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZygQhl1I/AAAAAAAABIY/YLZj8krHhzQ/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZzSz9PVI/AAAAAAAABIc/8EnnNiRnDLo/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ0GEEFgI/AAAAAAAABIk/ySVtXZZZwhU/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ0z7V7bI/AAAAAAAABIs/BXQZ3OEaPbo/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZ1-gjkrI/AAAAAAAABI4/BfQV2JWCzvU/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ20WBDBI/AAAAAAAABJA/kGE3cdab_Rs/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ3vuKjwI/AAAAAAAABJI/MmxwV6TtXYI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ4QRu4EI/AAAAAAAABJM/KNi6izeNEbY/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ5LFNm1I/AAAAAAAABJQ/p7zEhUd0TaE/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZ57Uf4SI/AAAAAAAABJU/WOWtw_mbsic/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZ63WJJTI/AAAAAAAABJg/PCRT0JY0eoU/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ7u4FDII/AAAAAAAABJo/ugK7aLM0L9k/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ8te3NwI/AAAAAAAABJw/92lB_79AaM0/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ9cbmXdI/AAAAAAAABJ4/2mtzqhT3oUE/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ-BEb2UI/AAAAAAAABKA/kXTB9BdFXp4/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZ-3nXKmI/AAAAAAAABKI/vxdj9goDKOE/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZ_c1MJrI/AAAAAAAABKQ/9IxVyo8dtVk/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaAxdqz0I/AAAAAAAABKY/GaRwP02Ng34/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaBidnQVI/AAAAAAAABKg/uaC7yMmR1vM/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaCQ5lglI/AAAAAAAABKo/SxwfWZ3ta7E/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaDAjMqTI/AAAAAAAABK8/1fyTHDFATMw/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaD1U2nTI/AAAAAAAABLE/IvzUAY3dL8w/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaEzUiODI/AAAAAAAABLI/qLScuC5N7RM/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaFhgZwpI/AAAAAAAABLM/2KVy289HQNI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaGqBZFkI/AAAAAAAABLQ/g6qBzAXuq2s/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaHpnwEVI/AAAAAAAABLU/ECtVtQgtYgw/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaIbuqNkI/AAAAAAAABLY/bV3RKxJfCXY/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaJPU-OBI/AAAAAAAABLc/BsUmv2rnlqA/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaKAcuYVI/AAAAAAAABLg/1XnS27LtIEc/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaK57XWoI/AAAAAAAABLo/uIkDWq6kvIY/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaLtFHTtI/AAAAAAAABLs/hbDtiY2eNWI/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaMWEsnfI/AAAAAAAABL4/j-HhUHo3uH4/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaM__cNzI/AAAAAAAABL8/Wfj2oQO7Hc8/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaN19QF5I/AAAAAAAABME/zKFA0LyBn6Q/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaOuYCzgI/AAAAAAAABMQ/TWcMVzgUFGU/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaPWZ0shI/AAAAAAAABMU/7fObA1JuGTQ/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaQCJS4pI/AAAAAAAABMY/VKrMyhDC6tE/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaQuD7muI/AAAAAAAABMc/hk6A-rbU6rc/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaRYZrcMI/AAAAAAAABMg/gv4je99iRS4/Lucky%20Luke%20Tap%2003%20Doan%20Lu%20Hanh-lluke-03-bia3.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

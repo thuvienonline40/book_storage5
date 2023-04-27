@@ -1,0 +1,372 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnbObSMs0I/AAAAAAAABB8/nQYA6MWqNzA/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnbPPnnX8I/AAAAAAAABCI/l0c1nbVwlyo/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnbP3RIeMI/AAAAAAAABCQ/oN2ErZvl0Bk/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnbS55O5rI/AAAAAAAABCs/ZVUr_tBqW20/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnbTTXsiVI/AAAAAAAABC4/p9lXyREYLQw/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnbUCFLM7I/AAAAAAAABDE/u1GCR2XdcNA/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnbXEKSnjI/AAAAAAAABDk/3TQ7qgTc9A8/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnbaINL5FI/AAAAAAAABD0/cxfEM-cmSv0/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnba74BnpI/AAAAAAAABD8/624ebQGqmo0/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnbbk4HpnI/AAAAAAAABEE/KOaLKQvEFPI/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnbcoAFE8I/AAAAAAAABEM/tkPwUDu2gkA/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnbfrjn03I/AAAAAAAABEc/Zm2jUn1ElJg/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnbiUdcMEI/AAAAAAAABE4/7o6PEDAB9s8/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnbjdeVyAI/AAAAAAAABFA/h7scLumOuvE/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnbmav9PBI/AAAAAAAABFM/MuBVz1gGylA/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnbnP3JlfI/AAAAAAAABFY/Wa32OoQDiAk/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnbqKxwlaI/AAAAAAAABFs/jy6GkXss7yI/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnbq9v0MUI/AAAAAAAABFw/5ZvWm1xMCkk/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnbrnyKhOI/AAAAAAAABF0/SObs-Axtj_Y/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnbtIlxJaI/AAAAAAAABF8/8IwvIE8BOJ0/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnbwGmGOfI/AAAAAAAABGQ/63JSlcSn5LE/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnbzKzhmKI/AAAAAAAABGc/7yH-HR7fvCo/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnb4VTYvGI/AAAAAAAABG4/33QXTbrlSqo/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnb5AOIWGI/AAAAAAAABG8/Q5Io0y8-7NI/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnb52AHP8I/AAAAAAAABHA/Czr05YoMd7g/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnb6hbnWsI/AAAAAAAABHE/ZP1T8q9veD8/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnb9pwMP2I/AAAAAAAABHk/RHKuwmhqiF0/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnb-Pbmu6I/AAAAAAAABHw/v91gvB8Wqz8/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnb-_cTIsI/AAAAAAAABH8/EJHBhGTZkLQ/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncAdjFQvI/AAAAAAAABIU/EHnaq9Mzew0/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncBNLsi9I/AAAAAAAABIc/b7Zd-icJzmc/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbncB_gYGzI/AAAAAAAABIo/YX6JSSC-BMw/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncCvU83PI/AAAAAAAABIw/o1R1iRBWXhc/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncDa8LiFI/AAAAAAAABI4/j6WygPD11rE/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncEabzovI/AAAAAAAABI8/I-hrVJQlTog/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbncJsKT_PI/AAAAAAAABJk/tgRZ6RsjawI/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncKdF98VI/AAAAAAAABJo/KXA1VI3KcGI/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncLPgmxcI/AAAAAAAABJs/t9J7tnIgvq4/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncOBpccdI/AAAAAAAABKE/ivp2Guiq2uA/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbncO26odwI/AAAAAAAABKM/vLKcWBwH34Q/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncPhxoL_I/AAAAAAAABKU/wIyjJ42FfVE/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbncQVEQk9I/AAAAAAAABKc/XkjpzR1N-D4/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbncTcgseOI/AAAAAAAABKo/2c7zj9HguQU/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbncUcd4XGI/AAAAAAAABK0/B9v5Etet2jE/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncU50Z80I/AAAAAAAABLA/HGYuF5_-7oI/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncX2ivIjI/AAAAAAAABLI/zb_30QiPh8w/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbncdBuTl4I/AAAAAAAABLc/f8YChibxb-c/Lucky%20Luke%20Tap%2071%20Con%20Parain-lluke-64bia3.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

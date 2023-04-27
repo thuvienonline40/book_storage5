@@ -1,0 +1,358 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTSwmz-DI/AAAAAAAAAOU/8MliI9eLGRM/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboTTgae3ZI/AAAAAAAAAOY/1fBmPraNQu0/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboTUZ7nzsI/AAAAAAAAAOg/L-ym5ITwJZ0/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTVASeDII/AAAAAAAAAOo/qZ345aFT15g/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTV6xXKsI/AAAAAAAAAOw/Wmv83JClFJw/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboTWtEa_WI/AAAAAAAAAO0/iPpJZ2_8HAU/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTXb2SkrI/AAAAAAAAAO8/dADWQO6fpQ4/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTYNyf7dI/AAAAAAAAAPE/kPx9JI0eaZs/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTYz03wwI/AAAAAAAAAPQ/FTctm2gdJPE/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTZpjNg7I/AAAAAAAAAPY/jmI1reDvH28/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTa7yMN4I/AAAAAAAAAPg/nmEzDNgFr8g/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTbjl8-iI/AAAAAAAAAPo/bASRAN_j2yk/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTcQK6lmI/AAAAAAAAAPw/-PtwSJeuzIU/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboTdPK0thI/AAAAAAAAAP4/-8Z6wl0aEpE/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTdy-HYEI/AAAAAAAAAQA/5caLIEzVFNw/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTesuhflI/AAAAAAAAAQM/c164KVvnERQ/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboTfeorsbI/AAAAAAAAAQU/FbFdtQOT7Q4/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboTgB-s5cI/AAAAAAAAAQc/J_qMhD_tmsk/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTgxDDL_I/AAAAAAAAAQg/iT-6mPOAYAg/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboThqKUZWI/AAAAAAAAAQo/wmDwwN4QU-0/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTia_KjaI/AAAAAAAAAQw/3RLIT_jfQHc/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTjTtQOnI/AAAAAAAAAQ4/B2yZ8AUQWik/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTj7ynCQI/AAAAAAAAAQ8/jXYadJnGfDE/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTknzTPiI/AAAAAAAAARM/SQbDrocYV8k/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTlR1NHOI/AAAAAAAAARQ/yhufS5rCOz0/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTmPoDjuI/AAAAAAAAARU/NqbyLgWSLm8/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboTm9qp5-I/AAAAAAAAARc/ysINJsqAMEs/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTpNtb9yI/AAAAAAAAARk/weC3C2AngPE/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTqPrB0YI/AAAAAAAAARs/oLHCDaTayKo/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTq3-H9eI/AAAAAAAAAR0/gmmIJNDAmv0/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTruGF5PI/AAAAAAAAAR4/l12CbMUKt5M/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTscdMukI/AAAAAAAAASA/P4qNBfsrm1Y/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboTtSqrahI/AAAAAAAAASE/tcpPVdoptmI/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTuP8_yHI/AAAAAAAAASI/-FZC2Mk2iFo/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTvAH3mdI/AAAAAAAAASQ/V8sTokoHYnU/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTv2349VI/AAAAAAAAASc/E5GKEeDn6Ko/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTwzW8SKI/AAAAAAAAASk/qUBZKDrwDsk/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboTxptENsI/AAAAAAAAASs/Ee5DLUPmYuM/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTycckIgI/AAAAAAAAAS0/Y7XbCQE6lo8/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboTzZpodGI/AAAAAAAAAS8/8-10wspmSmc/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboT0AhYXCI/AAAAAAAAATE/P2g-8IL4Ynk/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboT1Al8LUI/AAAAAAAAATQ/OSbEu4j6pLg/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboT1-M3ynI/AAAAAAAAATY/ROu2Ygi8BC0/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboT2kea1rI/AAAAAAAAATc/R1jcxlUgSHc/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboT3aVhJ4I/AAAAAAAAATk/L-TCxs-wUF4/Lucky%20Luke%20Tap%2012%20Khe%20Vuc%20Apache-lluke-09bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

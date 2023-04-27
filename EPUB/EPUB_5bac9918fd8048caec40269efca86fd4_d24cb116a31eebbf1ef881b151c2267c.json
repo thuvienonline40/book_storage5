@@ -1,0 +1,407 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPXj_LOOI/AAAAAAAACM0/8z1sI4KFEE8/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr00.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPYLHnrEI/AAAAAAAACM4/QR2HT4jjJqk/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr00a.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPY6JJ1tI/AAAAAAAACNA/cdf9eRo0big/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPZnyNVwI/AAAAAAAACNI/JV6q4tP3A24/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPaak0GeI/AAAAAAAACNQ/0ag9g_2dKzg/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPbCMxPqI/AAAAAAAACNY/IYMsRxK1C7Y/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPb2Hw5CI/AAAAAAAACNk/Wlszvv7X9TI/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPc6SvGoI/AAAAAAAACNs/l4R0Z0wq4ig/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPdrdHvZI/AAAAAAAACN0/-aD3mmVX3gw/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPeei391I/AAAAAAAACN8/tzFT4NBhFNg/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPfFQC5OI/AAAAAAAACOE/B7uiM2bjEec/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPf3U2vCI/AAAAAAAACOQ/OxW5NLxHrsM/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPgZBJj-I/AAAAAAAACOY/yY-jplYynGk/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPhb0sGqI/AAAAAAAACOg/KaKt3PDjRlI/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPh06flJI/AAAAAAAACOo/qei_OIbzB_Q/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPii9brgI/AAAAAAAACOs/g78eHq91o-Y/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPja9bylI/AAAAAAAACO4/Oe6yFhhmsnQ/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPkBpq9uI/AAAAAAAACPA/vhqFx1nJ3jg/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPkk5w2RI/AAAAAAAACPI/sA9lhjzxurw/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPlWVjjjI/AAAAAAAACPQ/W-A-uRO0uS8/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPmMZFEPI/AAAAAAAACPY/DF-rd1RKlmc/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPmha2apI/AAAAAAAACPg/3br3Ok6pLsg/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPnQt5OpI/AAAAAAAACPo/6WVcJE9AVpE/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPoKBf6gI/AAAAAAAACPw/4RABMmYElyA/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPokY6GFI/AAAAAAAACP0/GMwv0vortjg/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPpa4qLVI/AAAAAAAACP8/ZzAJepuq81c/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPqFoYN9I/AAAAAAAACQE/5Bb4tgw5aok/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPqhVOAnI/AAAAAAAACQQ/J7DvESycD74/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPrfnEZgI/AAAAAAAACQg/3IX8mtxAt_w/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPr_bUwzI/AAAAAAAACQo/dDjDs0MMEl8/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPsqozoWI/AAAAAAAACQw/hGJOMN998wY/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPtZoGk3I/AAAAAAAACQ4/Ma_L9QXSTz8/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPuA02DII/AAAAAAAACQ8/IPmvMfOLcro/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPut-vFoI/AAAAAAAACRA/Q7JtOcp0cY4/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPvaXZBoI/AAAAAAAACRE/Pqew9gxOrHk/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPwKzmgRI/AAAAAAAACRI/i9uTT3kwE0o/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPwjEF9jI/AAAAAAAACRM/TDsVx4eD3-I/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPxbJK7fI/AAAAAAAACRQ/0kCfurTJD7I/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPyDmMxHI/AAAAAAAACRc/5i1gQxelF8M/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPyq121RI/AAAAAAAACRk/mt-NESsPRgI/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPzaNLs4I/AAAAAAAACRw/zcs3MErzWrQ/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP0DSlsvI/AAAAAAAACR4/OpyYGFBBNAs/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP01w2YSI/AAAAAAAACSA/5k8ukQJ4sYY/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP1hP7YXI/AAAAAAAACSM/y7IYXk1epvg/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboP2PjK5pI/AAAAAAAACSU/8cS5li9dwbw/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP265eb7I/AAAAAAAACSg/GWjzLQJkrmc/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP31fOJfI/AAAAAAAACSo/qGMd165v-Ag/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP4RwYgWI/AAAAAAAACS0/cvxQacI8lNk/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr46.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboP5E0urBI/AAAAAAAACS8/BOi94phqhns/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr47.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP5nElstI/AAAAAAAACTA/37Xks86JaJg/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr48.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboP6Jym4QI/AAAAAAAACTI/X7TnJDoyhvM/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr49.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP62Y4YeI/AAAAAAAACTU/KYPnbDAXcWw/Lucky%20Luke%20Tap%2020%20So%20iDay%20Biet%20Hat-LuckyLuke20-SoiDayBietHat-Tr50.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

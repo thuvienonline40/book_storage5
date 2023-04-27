@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUijxv6wI/AAAAAAAAAaQ/wVVVP4YZ_iM/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUjJMiJ5I/AAAAAAAAAac/-neT7bd5LiE/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUj6uuTFI/AAAAAAAAAak/R5Srejado2o/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUkphjS7I/AAAAAAAAAas/obzP3TcnTLU/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUlTh_-UI/AAAAAAAAAa0/xAlJFb4t2JY/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUmCZoGZI/AAAAAAAAAa8/mLWJrSVDhrE/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUm_4KzYI/AAAAAAAAAbE/l4s4r615n9M/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUnjH53iI/AAAAAAAAAbM/3Ll1lm5BK3k/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUoThoKCI/AAAAAAAAAbU/38yxJ0vE26k/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUpDcuIlI/AAAAAAAAAbY/Vycd3lCfM9E/Lucky%20Luke%20Ngoai%20Truyen%20-%20%20Xem%20Boi-lluke-22-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

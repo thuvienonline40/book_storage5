@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCBYAcojI/AAAAAAAAAoU/M_DWz285co0/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCCNE40II/AAAAAAAAAoY/R9yAL_fWVgc/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCC7HAq1I/AAAAAAAAAoc/LNFElhKkuuQ/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCD7B6CgI/AAAAAAAAAog/_GRUTnbxziQ/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCEoRfufI/AAAAAAAAAok/8rIKJZIRbJg/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCFeruJZI/AAAAAAAAAos/xkUMkXMDR0E/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboCGAGe7TI/AAAAAAAAAow/o5bhfKf7GZ4/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCGqxDDzI/AAAAAAAAAo4/Y053HBiz5LI/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCJ8-JuxI/AAAAAAAAAo8/mNFXktrRCWI/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCKqlne7I/AAAAAAAAApE/7PxjDW2EXlg/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCLdB0d-I/AAAAAAAAApI/BM6lqzlJoOU/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCOczj2kI/AAAAAAAAApY/0zPYtzwvWig/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCPPOfmBI/AAAAAAAAApc/pswSeObHyEw/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCQspGzYI/AAAAAAAAApg/51Oqp1V7ylg/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboCRRFdwgI/AAAAAAAAApk/QbR6lQMlOsc/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCSC-J_QI/AAAAAAAAAps/0-bWxkAH0BQ/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCVKPpmlI/AAAAAAAAAqA/FIRZ30292Go/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboCV22TwWI/AAAAAAAAAqM/z0ahOYXaZXw/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCWk8viOI/AAAAAAAAAqU/pxxWG-GLwfA/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCXY3j-iI/AAAAAAAAAqc/w_fslqrYkKI/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCYQ2P0RI/AAAAAAAAAqk/yH0wL31xegE/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCehqBnsI/AAAAAAAAAq4/CvdWB0N40fU/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCf1DWZUI/AAAAAAAAArA/tBX0w58TDis/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCgqA2OdI/AAAAAAAAArE/JzwMKhSxafc/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCjmvVdBI/AAAAAAAAArQ/6f14NIwU-Wg/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboCnqucT2I/AAAAAAAAArc/3pU4C1f8zVs/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCoWoTV9I/AAAAAAAAArk/vouf6Qd1eik/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCrladgHI/AAAAAAAAAr4/GlO_7ytFxK4/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCsTBm4rI/AAAAAAAAAr8/2-ltpoTNPQE/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCtBwRFqI/AAAAAAAAAsA/ic9uk1rHCpg/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCwMnISHI/AAAAAAAAAsQ/UxM4WI0-NOE/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCw471Q0I/AAAAAAAAAsU/utlwmw-Y7L8/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboCxiDQJtI/AAAAAAAAAsc/wX0upnJp9mo/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboCytFNjcI/AAAAAAAAAsk/15whJHvoJ3A/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCzJ0YjAI/AAAAAAAAAss/iA3nFXoa3Vw/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboCz-UZNeI/AAAAAAAAAsw/SeGTPrBZ02s/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboC08mg-FI/AAAAAAAAAs0/gcbBY2XHBaA/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboC1nf6K8I/AAAAAAAAAs4/C2oa-vX5qbM/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboC4jJ47cI/AAAAAAAAAtI/GtmyO4DAvf0/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboC5cEl6gI/AAAAAAAAAtM/ZUvaK6qCIoI/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboC6CZMQbI/AAAAAAAAAtQ/NTOVKswaLpM/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboC6kUrapI/AAAAAAAAAtU/Rkfy1c4oflY/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboC-fMi0_I/AAAAAAAAAtk/vwPXVS5ju_U/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboDBAbqz2I/AAAAAAAAAtw/_KdV8TPU9fM/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboDBkp12cI/AAAAAAAAAt4/YUsQMFaEs9M/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboDCdQoqUI/AAAAAAAAAuE/2Qizadzkp7U/Lucky%20Luke%20Tap%2036%20Doan%20Ngua%20Con%20Toc%20Hanh-Doan%20Ngua%20Con-lluke-32bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,358 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRjPPXw1I/AAAAAAAAClI/v371bG8vwuI/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRkVO5GoI/AAAAAAAAClU/W9COmzOfWec/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRlqIPk5I/AAAAAAAAClc/i4ly1G5q470/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRm5Zo7QI/AAAAAAAAClk/Bo-8le-HUL4/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRnvIsc_I/AAAAAAAACls/8Hc8Ajw3X6c/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRopJtspI/AAAAAAAACl0/1Th5It_-yf0/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRppljKYI/AAAAAAAACl8/N2x5t-SJd_c/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRqdCi9DI/AAAAAAAACmE/GRyd04EqSyQ/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRrhzNWII/AAAAAAAACmQ/pLyQLxEhqvA/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboRseEDDQI/AAAAAAAACmY/gM_pgh6XHbI/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRtORuq5I/AAAAAAAACmg/_VfGpny6YEU/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRtpdZODI/AAAAAAAACmo/45wNyuy9bFQ/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRufv6eUI/AAAAAAAACmw/7GxpLpIBxgM/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRv6VPODI/AAAAAAAACm4/Wxu0p5Gu2pU/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRwmTAyFI/AAAAAAAACnA/Dfrqh-Xk6BY/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRxRuksII/AAAAAAAACnI/8TiPnW3i5o0/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRzkjHN7I/AAAAAAAACns/m-4jJP15znA/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboR0ftKR1I/AAAAAAAACn0/X-NN0gRfySY/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboR1SSyycI/AAAAAAAACn4/gvQ9ngvSSpg/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboR2jaRaSI/AAAAAAAACn8/66mlnaaD2Pw/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboR3SzA6QI/AAAAAAAACoA/dE1LHFlfXqs/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboR34jQAtI/AAAAAAAACoE/nyO_oWBTYjU/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboR4liP7QI/AAAAAAAACoI/9z6cm6zUlZI/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboR5QT34FI/AAAAAAAACoM/h9lSDjWx-70/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboR6VNPo4I/AAAAAAAACoQ/6XU78EnfpH4/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboR7IajwtI/AAAAAAAACoU/m0Kezu098WA/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboR7yQo7fI/AAAAAAAACoY/JlwycPSrbfc/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboR-Bvi3TI/AAAAAAAACok/rBPT5KMRAgI/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboR_JXqUvI/AAAAAAAACoo/OBxNFLvyhoI/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboSAdESZpI/AAAAAAAACos/7vpo0ZaNoUk/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboSBDIXjAI/AAAAAAAACow/WLa_Jv-EuOI/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboSB66aPhI/AAAAAAAACo4/ymM0sB64gcc/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboSEC6-CWI/AAAAAAAACo8/vYqvuK_uupg/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboSE08unoI/AAAAAAAACpA/XogPW0YDDfA/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboSFo1Q75I/AAAAAAAACpE/2bHPjLQRcUM/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboSHIwJZXI/AAAAAAAACpI/9UW1Espoa18/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboSH8onrtI/AAAAAAAACpM/uf7nL3ht2kg/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboSJdPAvcI/AAAAAAAACpQ/5d7qGjQn8Yw/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboSKKKWigI/AAAAAAAACpU/vqkpbrC_eXE/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboSK6fXHdI/AAAAAAAACpY/4-SbgdvT7uY/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboSLodR90I/AAAAAAAACpc/tVUFSn-0Rjg/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboSMc53wJI/AAAAAAAACpg/Kwglebe7io0/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboSNJ-E8CI/AAAAAAAACpk/x7f17eWM1m8/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboSOOFp6OI/AAAAAAAACpo/9N095evQGks/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboSO3s1ftI/AAAAAAAACps/QcRRcehnRng/Lucky%20Luke%20Tap%2014%20Dalton%20Luon%20Chay%20Rong-Lucky%20Luke%20Tap%2010%20Dalton%20Luon%20Chay%20Rong-lluke-10bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,400 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ2SKqmZI/AAAAAAAABbQ/8sp-y_xuQSE/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr00.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ3OBSLnI/AAAAAAAABbU/OraJE8F9jlI/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ3_Gat2I/AAAAAAAABbc/rrcoN9xdlWc/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ4ezUYOI/AAAAAAAABbk/akXUN_zToD8/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJ40RBo0I/AAAAAAAABbs/FTV0xeJyxAE/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ5kJNw7I/AAAAAAAABb0/DHV4HVul2Hc/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ6PxK3lI/AAAAAAAABb4/lBQieKzF5-k/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJ6nAGkbI/AAAAAAAABcA/FpcHPcxVI_U/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ7S_iSiI/AAAAAAAABcI/TZilCfJeUAQ/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ8NDOANI/AAAAAAAABcQ/UIwELt9awHg/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ8xYvvGI/AAAAAAAABcU/e5Vc2-P2d2k/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ9rw8CfI/AAAAAAAABcc/Kiwe32VGRhQ/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ-db14cI/AAAAAAAABco/RV5szjYaoRQ/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ_JSynDI/AAAAAAAABcw/RNcJFnMFynU/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ_mDgq8I/AAAAAAAABc4/TBrB6jeW1EE/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKAbCBcII/AAAAAAAABc8/cwSmpZERmlQ/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKBKWGwCI/AAAAAAAABdE/anX9hKhXt78/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKB9bPNnI/AAAAAAAABdM/AeVK_6FLt4k/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKCfphJ5I/AAAAAAAABdQ/k5NQQdaU_ho/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKDP0OWwI/AAAAAAAABdY/ATLByEBcx-w/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKDxkcJdI/AAAAAAAABdg/fWw4QfLyMvI/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKEvsuQgI/AAAAAAAABdo/2mpVrYeTdk4/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKFWKgNyI/AAAAAAAABdw/hydpiDIA5xw/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKF0Na8kI/AAAAAAAABd4/f6dDzDfNTiI/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKGus5LjI/AAAAAAAABeA/hxOkDLlwA0Y/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKHe_181I/AAAAAAAABeI/WVE-Dzf7cgo/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKINCC7OI/AAAAAAAABeM/p1R7JKGm9lA/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKIgRNJQI/AAAAAAAABeU/t_YGyhYfGxY/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKJZYUnEI/AAAAAAAABec/8X9jbR54agk/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKKGiW-uI/AAAAAAAABeg/P3bMB-3AIKA/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKK1KWg_I/AAAAAAAABeo/iktqBKwl5qo/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKLf09RAI/AAAAAAAABew/S5xJ6P5Ai5Q/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKMHp0hII/AAAAAAAABe4/YmPDvf0sNcA/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKM3TkX8I/AAAAAAAABe8/stapjKcPosg/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKNvQk1lI/AAAAAAAABfI/ivmFnOlolAw/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKOY79NKI/AAAAAAAABfY/RHteZgxmZWI/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKPObkz2I/AAAAAAAABfg/CJLNdybMnug/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKP-EK_aI/AAAAAAAABfo/7H80GO-bsfA/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKQvwOCUI/AAAAAAAABfw/Et9QKPT36d8/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKRHi_SCI/AAAAAAAABf0/VAm2P8Vj6W8/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKR_-1SvI/AAAAAAAABf4/apxkPQhM7gU/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKSvZSGsI/AAAAAAAABf8/nkUpKsoltws/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKTQE2C2I/AAAAAAAABgA/vmyLxMomah0/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKUKh42JI/AAAAAAAABgI/Ylh3Jjf8-Eo/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKU-CrPOI/AAAAAAAABgQ/UnQYDGZCsc4/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKV5aPyhI/AAAAAAAABgY/iESLk3QNzoY/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKWpLd8gI/AAAAAAAABgg/hdjfX468WTM/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr46.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKXDo6omI/AAAAAAAABgs/aiKY4BWhuNI/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr47.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKYGHTGBI/AAAAAAAABg0/vTY513yG3OM/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr48.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKYmpaMFI/AAAAAAAABg8/AFodoKwXqgk/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr49.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKZDSrH8I/AAAAAAAABhA/Ltznh2Twn2Q/Lucky%20Luke%20Tap%2026%20Bay%20Cau%20Chuyen-LuckyLuke26-BayCauChuyen-Tr50.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

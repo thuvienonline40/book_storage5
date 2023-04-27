@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboO2QVlNzI/AAAAAAAACHY/ddYkXaUIlDs/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboO26MrrUI/AAAAAAAACHg/Gh2kgg1T2xU/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboO3vkjVmI/AAAAAAAACHo/lvR_cg_8Myk/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboO4AhU56I/AAAAAAAACHs/7UK4Mwa9aQA/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboO4_ZOPpI/AAAAAAAACH0/-hr9SOyu0BE/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboO5ZOW_wI/AAAAAAAACH8/en1JfnTHR98/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboO6DaXuBI/AAAAAAAACIM/mXX3RyKGJ8w/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboO7J-YwiI/AAAAAAAACIU/2Uj6GcdFxCg/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboO7-SgvnI/AAAAAAAACIY/1xMvUlXdkjw/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboO8tiEfNI/AAAAAAAACIg/rEXPc28-BD0/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboO9L5OueI/AAAAAAAACIo/8iMMqOa5xHQ/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboO931lSpI/AAAAAAAACIw/I8zoyfb4aH4/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboO-VoQ1BI/AAAAAAAACI4/M_HdASBJ2Qg/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboO_D0g_mI/AAAAAAAACJA/pjmQlNVuG8w/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboO_qSkG9I/AAAAAAAACJI/KAPaUTyC8nE/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPAa3DUaI/AAAAAAAACJM/rGmaR_KioUs/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPBKUyhtI/AAAAAAAACJQ/yfJ3Men42TY/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPBtUDyXI/AAAAAAAACJY/CSHSxbMmvhI/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPCemg-vI/AAAAAAAACJc/Kls2I8bZmAY/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPDA_DmhI/AAAAAAAACJg/xwx52N86ahU/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPDkbdxiI/AAAAAAAACJk/Zq4FYMtKiiw/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPEVkk2iI/AAAAAAAACJs/YwjWqNBYbBM/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPE9T6IUI/AAAAAAAACJ8/ktu1b50Euzk/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPFkiirmI/AAAAAAAACKE/Inkr8ElVGYY/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPGdS7LLI/AAAAAAAACKI/G8EpZcTjOBo/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPGyEx-PI/AAAAAAAACKQ/BY6K8-N8NbQ/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPHpBk52I/AAAAAAAACKY/ml6mo9gA0ts/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPIeuBzrI/AAAAAAAACKg/s3hjUHu34hE/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPI7DlToI/AAAAAAAACKk/2fR8107_hdM/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPJvUZ9RI/AAAAAAAACKs/KhMd0-GcLf4/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPKytYpwI/AAAAAAAACK4/O1m5bR9DovU/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPLlbR-HI/AAAAAAAACLA/kO8tYMz4vEE/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPMKCppnI/AAAAAAAACLE/VV93oGCkVkU/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPM12UD9I/AAAAAAAACLM/PXLa2LW9NiY/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPNZo2xpI/AAAAAAAACLU/xBw8FQWa1kg/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPN2imBdI/AAAAAAAACLY/rdYwgb06J2w/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPOs3ZhTI/AAAAAAAACLk/pfv8Dj5C7tM/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPPF0W8XI/AAAAAAAACLs/m5T6i-rN0Hw/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPPoQ_qdI/AAAAAAAACL0/kRUyQZDij6s/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboPQRy3nFI/AAAAAAAACL8/r3fm04ywSSk/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPQ6bSm6I/AAAAAAAACMA/b1y83rZGTxs/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPRSZqmYI/AAAAAAAACMI/cL2TGPlnOdQ/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboPSBXmMwI/AAAAAAAACMQ/Q1II5OhqeYg/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPSwkUJmI/AAAAAAAACMY/loq9DIx5Ys8/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPTvgBotI/AAAAAAAACMc/AHsbrO0L2aE/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboPU0cAWoI/AAAAAAAACMg/NQTZm8uZBK0/Lucky%20Luke%20Tap%2022%20Cuoc%20Do%20Xo%20Toi%20Oklahoma-Lucky_Luke_tap22_trang46.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

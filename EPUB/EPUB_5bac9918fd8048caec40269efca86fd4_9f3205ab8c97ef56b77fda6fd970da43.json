@@ -1,0 +1,358 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbngQFSYy2I/AAAAAAAABpw/vb8rUTZ3HXM/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbngRIGZ9kI/AAAAAAAABp8/-hyBuiIMjig/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbngR_XawXI/AAAAAAAABqM/w0Hp-OAtML8/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbngVVriWlI/AAAAAAAABqY/Zo_xTQf7-vE/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbngWD4UBqI/AAAAAAAABqw/22D6gQH5hmE/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbngXVVHEwI/AAAAAAAABq8/lMLYgYYZPac/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbngbpLiNTI/AAAAAAAABrY/l_e3IussBIs/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnge6atzzI/AAAAAAAABro/W7sXKl3i56k/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbngf0fJt3I/AAAAAAAABr0/E5M8aiPG7uA/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbngg4xAxVI/AAAAAAAABsA/rKCTjRalKzs/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbngjzWy4EI/AAAAAAAABsI/L3i1l4ZHwTQ/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbngoUdWxlI/AAAAAAAABsk/QQUkUoRi180/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnguQ9wEtI/AAAAAAAABtM/-fbc6hN0ozw/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbngx_nomzI/AAAAAAAABtY/92rHuK2cIEc/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbngy6sf5XI/AAAAAAAABtg/tX_iQKUfBHk/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbng2PsJf0I/AAAAAAAABt4/hxlwla7PFc4/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbng3Bn1B_I/AAAAAAAABt8/8FLZQGBUNHI/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbng6bgf2_I/AAAAAAAABuU/_CIAsy-KkaE/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbng7NikXeI/AAAAAAAABug/TEHjy3ZM5V4/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbng8YdFcEI/AAAAAAAABuw/xcpypYf0gX8/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbng-HKxtCI/AAAAAAAABu4/gQE1IlvZu0I/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbng_IUZl2I/AAAAAAAABvA/Oh08_Hx-Bmg/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnhAHGLI5I/AAAAAAAABvI/ZECcbKKJgVc/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhBNDOjHI/AAAAAAAABvQ/TkGIBRpg3Vc/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnhCZh2KlI/AAAAAAAABvU/CAZ9h6vb7Xk/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnhFejGNII/AAAAAAAABvc/SoTHgi6Bza8/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhGWO10PI/AAAAAAAABvg/5z18rcKRXzo/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnhIGxB8rI/AAAAAAAABvo/7CqjJbO3RqQ/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhJF5m-EI/AAAAAAAABvw/t-uH6ubhYKI/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnhKKIh9nI/AAAAAAAABv0/euQJHdBF9W8/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhK7YBF8I/AAAAAAAABv4/d7FECIR2I3A/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhL2R7mYI/AAAAAAAABwI/iREKhd7fu4w/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnhPOTF9gI/AAAAAAAABwg/kPTcyqoaK3Y/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhQKL6GxI/AAAAAAAABws/BaAnMsGB5TI/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhREF8-JI/AAAAAAAABw0/w6KRMlaWxpI/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnhSFXhPGI/AAAAAAAABxA/eFYlL6aoWhw/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnhTIf3QhI/AAAAAAAABxE/qrBvfRNYfBo/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnhTzG2LyI/AAAAAAAABxU/DVk2AWLiW4c/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnhU_iQdlI/AAAAAAAABxg/0FvVnKO-clE/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhV3vpxsI/AAAAAAAABxo/B1OEqFT2ro8/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnhXp6vtKI/AAAAAAAABx4/_rfiv07iVYg/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnhagOXhVI/AAAAAAAAByU/SpnGpn7pWNE/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnhbRFUGDI/AAAAAAAAByc/NAk6MXk8qJ4/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhcaqpRNI/AAAAAAAABys/iAd0NFde6JA/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnhdRP3LKI/AAAAAAAABy4/UTXGOGD5cJQ/Lucky%20Luke%20Tap%2059%20Duong%20Ray%20Tren%20Dong%20Co-lluke-52bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

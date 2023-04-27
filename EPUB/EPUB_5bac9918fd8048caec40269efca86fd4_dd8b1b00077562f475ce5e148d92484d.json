@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYbhPGr7I/AAAAAAAAA-Q/Sz0v91YpWCI/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYdL_sjzI/AAAAAAAAA-Y/ZoekKzED5G8/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYdwkzPDI/AAAAAAAAA-c/VBNGgNndfV4/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYeigp2cI/AAAAAAAAA-k/ukf5rqF8Rc4/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYg3MMNPI/AAAAAAAAA-4/2k_ay_aBOCc/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYiLGQ2SI/AAAAAAAAA_A/KsXJRAbDQSc/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYjBE_VfI/AAAAAAAAA_I/sWQ8UmtFOoo/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYj9INknI/AAAAAAAAA_U/Gq4neI02YQY/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYlYdM3vI/AAAAAAAAA_c/OGk75eSOZCQ/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYm_7lRBI/AAAAAAAAA_g/jHNq8FQ1z5A/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYnojZDWI/AAAAAAAAA_k/rcimDUgftIk/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYbhPGr7I/AAAAAAAAA-Q/Sz0v91YpWCI/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYdL_sjzI/AAAAAAAAA-Y/ZoekKzED5G8/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYdwkzPDI/AAAAAAAAA-c/VBNGgNndfV4/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYeigp2cI/AAAAAAAAA-k/ukf5rqF8Rc4/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYg3MMNPI/AAAAAAAAA-4/2k_ay_aBOCc/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYiLGQ2SI/AAAAAAAAA_A/KsXJRAbDQSc/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYjBE_VfI/AAAAAAAAA_I/sWQ8UmtFOoo/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYj9INknI/AAAAAAAAA_U/Gq4neI02YQY/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYlYdM3vI/AAAAAAAAA_c/OGk75eSOZCQ/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYm_7lRBI/AAAAAAAAA_g/jHNq8FQ1z5A/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYnojZDWI/AAAAAAAAA_k/rcimDUgftIk/Lucky%20Luke%20Ngoai%20Truyen%20-%20Cai%20Mang%20Nuoc-lluke-24-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,687 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXiBwq3-I/AAAAAAAAA3A/i-0xmdcQ8eQ/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXi8I9IBI/AAAAAAAAA3I/4dmhKP2ktZQ/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXjqzJkRI/AAAAAAAAA3Q/4Wp3ah_QcO0/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXkb_y2NI/AAAAAAAAA3Y/j7S4iOvtJvA/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXlWAshXI/AAAAAAAAA3g/oO5wJmV_v98/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXmD1FIWI/AAAAAAAAA3o/p6FcrlMkKA8/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXmxCiblI/AAAAAAAAA3s/K4KjZExROkY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXnrw_wyI/AAAAAAAAA30/nfqkMsD6X7U/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXoYhLBgI/AAAAAAAAA38/i0nD9T_uqgY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXpHcm3JI/AAAAAAAAA4A/LKi9Pu9x0uM/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXp6jiAFI/AAAAAAAAA4I/qC51kLQ6OxY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXqiYy8mI/AAAAAAAAA4Q/95BYeTJ6evE/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXraaqG5I/AAAAAAAAA4Y/6n8NJFzQv3o/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXsAR8fRI/AAAAAAAAA4k/eciZcoEK_NM/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXs01lVdI/AAAAAAAAA4s/1hk87oOZo_4/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXuWgpA_I/AAAAAAAAA48/mFrvHTNv1VM/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXvNba9YI/AAAAAAAAA5E/vRevm7yd_HE/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXwMLKGSI/AAAAAAAAA5M/SHiaQiPECOc/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXwxjOyXI/AAAAAAAAA5Q/E77YcK4X0EE/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXxvnVHBI/AAAAAAAAA5Y/3c63wzlzlhc/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXyfv_fEI/AAAAAAAAA5g/cjiR8EBF3t8/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXzOwBQvI/AAAAAAAAA5o/cA7QhSFXr-Y/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXz71BubI/AAAAAAAAA5w/zvqggVWsHd0/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboX0o91BcI/AAAAAAAAA6A/RIXv_42IsBw/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboX1ZJneVI/AAAAAAAAA6I/uDp3F3NgBNc/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboX1-85CKI/AAAAAAAAA6M/dP8K6Qbas40/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboX29CCmmI/AAAAAAAAA6Q/AZNFmQFUe7Q/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX4KYybkI/AAAAAAAAA6U/3jDgCxAvnaY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboX45gFwhI/AAAAAAAAA6c/pK52avLDVJM/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboX5wD0wuI/AAAAAAAAA6k/pwQ9cUOyxZI/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboX6pM-BDI/AAAAAAAAA6o/_GA2V9YaoL0/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboX7v95qHI/AAAAAAAAA6s/ik5PVD96_64/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX8V_V1PI/AAAAAAAAA60/x5DGo4mRc5o/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX9ogsZfI/AAAAAAAAA64/wfGI3bAwIyQ/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX-V4B3SI/AAAAAAAAA7A/ke8D-vc6xWo/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX_ZO9YaI/AAAAAAAAA7M/te8DbzbOYcY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYAcqZLuI/AAAAAAAAA7U/mOF2uKNb5qY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYBc1g0jI/AAAAAAAAA7c/iBDgFlOk6-w/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYDH0upII/AAAAAAAAA7o/OcLR-9fhMZQ/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYD6bLFAI/AAAAAAAAA7w/hm6QH4K03Eo/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYFitIxwI/AAAAAAAAA78/z4e_1f06sAI/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYITlglUI/AAAAAAAAA8I/VKwD6mfu85c/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYRUJUtGI/AAAAAAAAA84/oou8ebKTHhg/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYSOTru4I/AAAAAAAAA9A/XU3EtXrptdE/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYTPjfLDI/AAAAAAAAA9I/2kyzDw1zc2k/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYUuPrzGI/AAAAAAAAA9k/IU31OXCg4dA/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06bia2-1.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXiBwq3-I/AAAAAAAAA3A/i-0xmdcQ8eQ/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXi8I9IBI/AAAAAAAAA3I/4dmhKP2ktZQ/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXjqzJkRI/AAAAAAAAA3Q/4Wp3ah_QcO0/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXkb_y2NI/AAAAAAAAA3Y/j7S4iOvtJvA/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXlWAshXI/AAAAAAAAA3g/oO5wJmV_v98/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXmD1FIWI/AAAAAAAAA3o/p6FcrlMkKA8/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXmxCiblI/AAAAAAAAA3s/K4KjZExROkY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXnrw_wyI/AAAAAAAAA30/nfqkMsD6X7U/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXoYhLBgI/AAAAAAAAA38/i0nD9T_uqgY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXpHcm3JI/AAAAAAAAA4A/LKi9Pu9x0uM/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXp6jiAFI/AAAAAAAAA4I/qC51kLQ6OxY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXqiYy8mI/AAAAAAAAA4Q/95BYeTJ6evE/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXraaqG5I/AAAAAAAAA4Y/6n8NJFzQv3o/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXsAR8fRI/AAAAAAAAA4k/eciZcoEK_NM/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXs01lVdI/AAAAAAAAA4s/1hk87oOZo_4/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXuWgpA_I/AAAAAAAAA48/mFrvHTNv1VM/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXvNba9YI/AAAAAAAAA5E/vRevm7yd_HE/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboXwMLKGSI/AAAAAAAAA5M/SHiaQiPECOc/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXwxjOyXI/AAAAAAAAA5Q/E77YcK4X0EE/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXxvnVHBI/AAAAAAAAA5Y/3c63wzlzlhc/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXyfv_fEI/AAAAAAAAA5g/cjiR8EBF3t8/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboXzOwBQvI/AAAAAAAAA5o/cA7QhSFXr-Y/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboXz71BubI/AAAAAAAAA5w/zvqggVWsHd0/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboX0o91BcI/AAAAAAAAA6A/RIXv_42IsBw/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboX1ZJneVI/AAAAAAAAA6I/uDp3F3NgBNc/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboX1-85CKI/AAAAAAAAA6M/dP8K6Qbas40/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboX29CCmmI/AAAAAAAAA6Q/AZNFmQFUe7Q/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX4KYybkI/AAAAAAAAA6U/3jDgCxAvnaY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboX45gFwhI/AAAAAAAAA6c/pK52avLDVJM/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboX5wD0wuI/AAAAAAAAA6k/pwQ9cUOyxZI/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboX6pM-BDI/AAAAAAAAA6o/_GA2V9YaoL0/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboX7v95qHI/AAAAAAAAA6s/ik5PVD96_64/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX8V_V1PI/AAAAAAAAA60/x5DGo4mRc5o/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX9ogsZfI/AAAAAAAAA64/wfGI3bAwIyQ/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX-V4B3SI/AAAAAAAAA7A/ke8D-vc6xWo/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboX_ZO9YaI/AAAAAAAAA7M/te8DbzbOYcY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYAcqZLuI/AAAAAAAAA7U/mOF2uKNb5qY/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYBc1g0jI/AAAAAAAAA7c/iBDgFlOk6-w/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYDH0upII/AAAAAAAAA7o/OcLR-9fhMZQ/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYD6bLFAI/AAAAAAAAA7w/hm6QH4K03Eo/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYFitIxwI/AAAAAAAAA78/z4e_1f06sAI/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYITlglUI/AAAAAAAAA8I/VKwD6mfu85c/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYRUJUtGI/AAAAAAAAA84/oou8ebKTHhg/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYSOTru4I/AAAAAAAAA9A/XU3EtXrptdE/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYTPjfLDI/AAAAAAAAA9I/2kyzDw1zc2k/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYUuPrzGI/AAAAAAAAA9k/IU31OXCg4dA/Lucky%20Luke%20Tap%2007%20Ten%20Billy%20The%20Kid-lluke-06bia2-1.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

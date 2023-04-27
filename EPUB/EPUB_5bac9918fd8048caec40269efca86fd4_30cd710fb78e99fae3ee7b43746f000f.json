@@ -1,0 +1,659 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaXYi4DXI/AAAAAAAABNE/IvPznkAtKec/Ban%20Tay%20Nham-lluke-01-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaYYc1aMI/AAAAAAAABNM/Wim3zJh2ZrI/Ban%20Tay%20Nham-lluke-01-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaaODpg4I/AAAAAAAABNY/Nm3uBF9Ammg/Ban%20Tay%20Nham-lluke-01-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboabHjB__I/AAAAAAAABNc/O91WA4RP34U/Ban%20Tay%20Nham-lluke-01-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboab_gIYYI/AAAAAAAABNk/Moh-L4U2EfY/Ban%20Tay%20Nham-lluke-01-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboac6YPRaI/AAAAAAAABNs/5EsNGOrcj4c/Ban%20Tay%20Nham-lluke-01-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboadil54pI/AAAAAAAABN0/rzQgKCMqFJk/Ban%20Tay%20Nham-lluke-01-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboafbv_-JI/AAAAAAAABOA/9I0FcRusMMI/Ban%20Tay%20Nham-lluke-01-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboai4W3x3I/AAAAAAAABOQ/ek08BurNLNw/Ban%20Tay%20Nham-lluke-01-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboajz6Q9tI/AAAAAAAABOY/hH7HDGfMr5c/Ban%20Tay%20Nham-lluke-01-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboak6Z_z0I/AAAAAAAABOc/xHnIwCtKpDY/Ban%20Tay%20Nham-lluke-01-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboamcbMwGI/AAAAAAAABOo/QviYAhlBJcc/Ban%20Tay%20Nham-lluke-01-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboan3DpzlI/AAAAAAAABOw/lJWH0B6np9g/Ban%20Tay%20Nham-lluke-01-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboasNMGeII/AAAAAAAABPE/uY3-gk9rBPQ/Ban%20Tay%20Nham-lluke-01-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboas163BVI/AAAAAAAABPM/12HmgwJmiOQ/Ban%20Tay%20Nham-lluke-01-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboatzM7wjI/AAAAAAAABPU/sVsXjRyctFY/Ban%20Tay%20Nham-lluke-01-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboau6eldBI/AAAAAAAABPc/htNLlV48ADY/Ban%20Tay%20Nham-lluke-01-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboawuzp2dI/AAAAAAAABPg/_bLIvdGM_yc/Ban%20Tay%20Nham-lluke-01-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaxqK-S1I/AAAAAAAABPs/ik1omljj340/Ban%20Tay%20Nham-lluke-01-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboayZR79PI/AAAAAAAABP4/GjwPK06PWuI/Ban%20Tay%20Nham-lluke-01-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboaze8Vk-I/AAAAAAAABQA/B3grHYgSwfo/Ban%20Tay%20Nham-lluke-01-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa0BasoqI/AAAAAAAABQI/TIPvDWb9qKo/Ban%20Tay%20Nham-lluke-01-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa06aIuhI/AAAAAAAABQQ/NJi8CmykLgU/Ban%20Tay%20Nham-lluke-01-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa10YePzI/AAAAAAAABQY/uPTu9qi4rwA/Ban%20Tay%20Nham-lluke-01-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa2s8kVWI/AAAAAAAABQg/XXls9x9hQPM/Ban%20Tay%20Nham-lluke-01-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa3SAjY6I/AAAAAAAABQo/LM4t40coGis/Ban%20Tay%20Nham-lluke-01-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa4QyjosI/AAAAAAAABQw/IM7hXHIdo64/Ban%20Tay%20Nham-lluke-01-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa5J_8FDI/AAAAAAAABQ0/c-hbQjnyKGM/Ban%20Tay%20Nham-lluke-01-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa6GazTFI/AAAAAAAABQ8/7HG_UhN7D2Q/Ban%20Tay%20Nham-lluke-01-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa7Ie-Y1I/AAAAAAAABRE/nUToUwXQRRI/Ban%20Tay%20Nham-lluke-01-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa75Rr-1I/AAAAAAAABRM/5IjszxPqLPU/Ban%20Tay%20Nham-lluke-01-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa8uKRVXI/AAAAAAAABRY/_gRxDdjwz50/Ban%20Tay%20Nham-lluke-01-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa9uEqknI/AAAAAAAABRk/QKkxvy0so6s/Ban%20Tay%20Nham-lluke-01-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa-bp3keI/AAAAAAAABRs/Bslkjin48SE/Ban%20Tay%20Nham-lluke-01-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa_bN6Y5I/AAAAAAAABRw/qOtFWsfV_1Q/Ban%20Tay%20Nham-lluke-01-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TbobAVNLBtI/AAAAAAAABR4/lVi8oY2uuk8/Ban%20Tay%20Nham-lluke-01-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobCsXlcjI/AAAAAAAABSQ/7S5SKvbWLZc/Ban%20Tay%20Nham-lluke-01-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TbobHrG6IJI/AAAAAAAABSY/Cedhe-IdxRI/Ban%20Tay%20Nham-lluke-01-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TbobIuewD7I/AAAAAAAABSg/tHzgms1Pcx8/Ban%20Tay%20Nham-lluke-01-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TbobJarp-JI/AAAAAAAABSs/XAbiGMhlBCo/Ban%20Tay%20Nham-lluke-01-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobJ4_QuVI/AAAAAAAABS0/0oU1CN5ZxBk/Ban%20Tay%20Nham-lluke-01-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobK5qc8BI/AAAAAAAABS4/U9A1jQ8HttM/Ban%20Tay%20Nham-lluke-01-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobLhmx5TI/AAAAAAAABTA/5ccxCncYJ7Y/Ban%20Tay%20Nham-lluke-01-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TbobMbQpfVI/AAAAAAAABTI/5cd7bAeSHLk/Ban%20Tay%20Nham-lluke-01bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaXYi4DXI/AAAAAAAABNE/IvPznkAtKec/Ban%20Tay%20Nham-lluke-01-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaYYc1aMI/AAAAAAAABNM/Wim3zJh2ZrI/Ban%20Tay%20Nham-lluke-01-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaaODpg4I/AAAAAAAABNY/Nm3uBF9Ammg/Ban%20Tay%20Nham-lluke-01-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboabHjB__I/AAAAAAAABNc/O91WA4RP34U/Ban%20Tay%20Nham-lluke-01-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboab_gIYYI/AAAAAAAABNk/Moh-L4U2EfY/Ban%20Tay%20Nham-lluke-01-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboac6YPRaI/AAAAAAAABNs/5EsNGOrcj4c/Ban%20Tay%20Nham-lluke-01-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboadil54pI/AAAAAAAABN0/rzQgKCMqFJk/Ban%20Tay%20Nham-lluke-01-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboafbv_-JI/AAAAAAAABOA/9I0FcRusMMI/Ban%20Tay%20Nham-lluke-01-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboai4W3x3I/AAAAAAAABOQ/ek08BurNLNw/Ban%20Tay%20Nham-lluke-01-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboajz6Q9tI/AAAAAAAABOY/hH7HDGfMr5c/Ban%20Tay%20Nham-lluke-01-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboak6Z_z0I/AAAAAAAABOc/xHnIwCtKpDY/Ban%20Tay%20Nham-lluke-01-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboamcbMwGI/AAAAAAAABOo/QviYAhlBJcc/Ban%20Tay%20Nham-lluke-01-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboan3DpzlI/AAAAAAAABOw/lJWH0B6np9g/Ban%20Tay%20Nham-lluke-01-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboasNMGeII/AAAAAAAABPE/uY3-gk9rBPQ/Ban%20Tay%20Nham-lluke-01-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboas163BVI/AAAAAAAABPM/12HmgwJmiOQ/Ban%20Tay%20Nham-lluke-01-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboatzM7wjI/AAAAAAAABPU/sVsXjRyctFY/Ban%20Tay%20Nham-lluke-01-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboau6eldBI/AAAAAAAABPc/htNLlV48ADY/Ban%20Tay%20Nham-lluke-01-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboawuzp2dI/AAAAAAAABPg/_bLIvdGM_yc/Ban%20Tay%20Nham-lluke-01-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaxqK-S1I/AAAAAAAABPs/ik1omljj340/Ban%20Tay%20Nham-lluke-01-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboayZR79PI/AAAAAAAABP4/GjwPK06PWuI/Ban%20Tay%20Nham-lluke-01-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboaze8Vk-I/AAAAAAAABQA/B3grHYgSwfo/Ban%20Tay%20Nham-lluke-01-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa0BasoqI/AAAAAAAABQI/TIPvDWb9qKo/Ban%20Tay%20Nham-lluke-01-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa06aIuhI/AAAAAAAABQQ/NJi8CmykLgU/Ban%20Tay%20Nham-lluke-01-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa10YePzI/AAAAAAAABQY/uPTu9qi4rwA/Ban%20Tay%20Nham-lluke-01-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa2s8kVWI/AAAAAAAABQg/XXls9x9hQPM/Ban%20Tay%20Nham-lluke-01-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa3SAjY6I/AAAAAAAABQo/LM4t40coGis/Ban%20Tay%20Nham-lluke-01-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa4QyjosI/AAAAAAAABQw/IM7hXHIdo64/Ban%20Tay%20Nham-lluke-01-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa5J_8FDI/AAAAAAAABQ0/c-hbQjnyKGM/Ban%20Tay%20Nham-lluke-01-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa6GazTFI/AAAAAAAABQ8/7HG_UhN7D2Q/Ban%20Tay%20Nham-lluke-01-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa7Ie-Y1I/AAAAAAAABRE/nUToUwXQRRI/Ban%20Tay%20Nham-lluke-01-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa75Rr-1I/AAAAAAAABRM/5IjszxPqLPU/Ban%20Tay%20Nham-lluke-01-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa8uKRVXI/AAAAAAAABRY/_gRxDdjwz50/Ban%20Tay%20Nham-lluke-01-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa9uEqknI/AAAAAAAABRk/QKkxvy0so6s/Ban%20Tay%20Nham-lluke-01-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa-bp3keI/AAAAAAAABRs/Bslkjin48SE/Ban%20Tay%20Nham-lluke-01-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa_bN6Y5I/AAAAAAAABRw/qOtFWsfV_1Q/Ban%20Tay%20Nham-lluke-01-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TbobAVNLBtI/AAAAAAAABR4/lVi8oY2uuk8/Ban%20Tay%20Nham-lluke-01-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobCsXlcjI/AAAAAAAABSQ/7S5SKvbWLZc/Ban%20Tay%20Nham-lluke-01-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TbobHrG6IJI/AAAAAAAABSY/Cedhe-IdxRI/Ban%20Tay%20Nham-lluke-01-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TbobIuewD7I/AAAAAAAABSg/tHzgms1Pcx8/Ban%20Tay%20Nham-lluke-01-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TbobJarp-JI/AAAAAAAABSs/XAbiGMhlBCo/Ban%20Tay%20Nham-lluke-01-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobJ4_QuVI/AAAAAAAABS0/0oU1CN5ZxBk/Ban%20Tay%20Nham-lluke-01-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobK5qc8BI/AAAAAAAABS4/U9A1jQ8HttM/Ban%20Tay%20Nham-lluke-01-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobLhmx5TI/AAAAAAAABTA/5ccxCncYJ7Y/Ban%20Tay%20Nham-lluke-01-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TbobMbQpfVI/AAAAAAAABTI/5cd7bAeSHLk/Ban%20Tay%20Nham-lluke-01bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

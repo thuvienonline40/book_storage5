@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboESkjzUVI/AAAAAAAAA04/D1ukK2gsUko/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboETTAVtcI/AAAAAAAAA08/zyM2rcVGYL8/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboEUOXkeWI/AAAAAAAAA1A/NVLgiS_Mu7o/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboEUyUz4DI/AAAAAAAAA1E/_JGf-D7V5-E/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboEZBoI8WI/AAAAAAAAA1U/uufurkm2K9I/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboEcE5uOqI/AAAAAAAAA1Y/hxUIJFN-_bU/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboEc3n9k7I/AAAAAAAAA1g/srTJdO-svTo/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboEf1YMkmI/AAAAAAAAA1s/k-diDpQFpCk/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboEg9PXgEI/AAAAAAAAA1w/UfQlgBLDt90/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboEjsvxhcI/AAAAAAAAA2A/c1nRhGbaI3I/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboEkpNI8HI/AAAAAAAAA2E/8Ra-HtG2pfg/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboElUMh4dI/AAAAAAAAA2U/8Tf0tqrPQ_I/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboEs2BdTvI/AAAAAAAAA3A/KarBwSg-Vis/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboEtwRTv9I/AAAAAAAAA3I/R9_vUf4rUgs/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboEzFuQ1vI/AAAAAAAAA3c/prLRT3T642s/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboEz-ff28I/AAAAAAAAA3g/ucoCuCp_q8I/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboE094GvuI/AAAAAAAAA3k/1o5R6Rk6iH4/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboE1n3zZGI/AAAAAAAAA3o/CyWU5Wk1hAU/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboE2c3rfAI/AAAAAAAAA3s/f-ibR06H2u4/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboE9--sNfI/AAAAAAAAA4E/cA3V6Sn8R_E/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboFBMNWxmI/AAAAAAAAA4Q/eSVOuFQYQow/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFB320VzI/AAAAAAAAA4Y/wAqAFsTaHH0/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboFC6TneiI/AAAAAAAAA4g/eh00uaKc1Kc/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFDhPP6QI/AAAAAAAAA4k/yHs2nHcAfns/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFEf2Eb_I/AAAAAAAAA4o/yMgLijavvEo/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboFE5Pb8QI/AAAAAAAAA4s/YRBsqQ2NBFA/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboFFpkA2kI/AAAAAAAAA40/4OrgzZjO3eo/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboFGcaDBlI/AAAAAAAAA44/8vyVvkkbM4c/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFHMttLuI/AAAAAAAAA5E/6dgosiR37c4/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFH6luHbI/AAAAAAAAA5M/mqu73rRtg84/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFIlHdOCI/AAAAAAAAA5Y/ogiDFjWeUWQ/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFJe_uoEI/AAAAAAAAA5c/fhGrjUXQ57o/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboFKaMDnfI/AAAAAAAAA5k/pQBb7zf65ts/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFLD5rPQI/AAAAAAAAA5s/JKVFZwMFyzw/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboFL2fHGjI/AAAAAAAAA5w/_Hezb9IdXG0/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFMzyuMkI/AAAAAAAAA58/B6jk5UZlr2s/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFNoypCtI/AAAAAAAAA6A/FngLvmQ5PiE/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboFOb9BYBI/AAAAAAAAA6I/Xn7m-0HpyvA/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFPDbTB6I/AAAAAAAAA6Q/n8Iu99Mn6VA/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFP_O0hfI/AAAAAAAAA6U/4LaoGSwszPg/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFQgWNtHI/AAAAAAAAA6Y/QthPGUe30hE/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboFRUWdnMI/AAAAAAAAA6c/9j4oiui0hOc/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFSNRtw8I/AAAAAAAAA6g/3k_8QqFrnD4/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFVM7VupI/AAAAAAAAA60/EqA9TxwqPH8/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboFWDIMQHI/AAAAAAAAA64/1Hxj3uNgvzg/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboFWpfHfjI/AAAAAAAAA7A/ErPItLwango/Lucky%20Luke%20Tap%2034%20Doan%20Ki%20Binh%20Thu%2020-LuckyLuke%20Tap%2030%20Doan%20Ki%20Binh%20Thu%2020-lluke-30bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

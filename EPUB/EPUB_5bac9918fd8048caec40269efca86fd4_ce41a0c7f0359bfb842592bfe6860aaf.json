@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboP9e05g-I/AAAAAAAACUA/TEKdvvgJ8oA/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP-Cu1jnI/AAAAAAAACUI/hGULo-LkYag/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP-oixnuI/AAAAAAAACUU/Q6h3S3k65DU/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboP_U-sNFI/AAAAAAAACUg/ru52riirp90/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQAiksFKI/AAAAAAAACUo/isDTkATXU_k/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQBPJHIoI/AAAAAAAACUw/gAOHNfJThOc/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQBx2mXII/AAAAAAAACU4/5CG2BZ7vCWQ/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboQCbKbxjI/AAAAAAAACVE/oLrzdT_Cx2E/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboQCxFBT8I/AAAAAAAACVM/gbn1GfbVyRE/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQDtCoJHI/AAAAAAAACVU/6aIrTFL2qIE/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQENXPJXI/AAAAAAAACVg/15viycOUQ5E/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQE0Y3vMI/AAAAAAAACVo/opir-c-Vmus/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQFRdibPI/AAAAAAAACVw/ZbNgRtFQTEg/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQGOYyQmI/AAAAAAAACV4/fVI2aonB5uQ/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQGsxr-dI/AAAAAAAACWA/vNsoJMQvoYY/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQHXvyHmI/AAAAAAAACWM/5k49Pepz0Rw/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQH09_wMI/AAAAAAAACWU/oidV3VFyUBk/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQIhBhC3I/AAAAAAAACWc/miAwt5YYaUg/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQJA47yoI/AAAAAAAACWk/bc8qE7PpIqY/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQJ_MPDEI/AAAAAAAACWs/FGk7LPa3ksc/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQKa90JeI/AAAAAAAACW0/PZhUf-5iVKI/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboQLIZMn5I/AAAAAAAACW8/JPtIBTKL1-A/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQLwfSbEI/AAAAAAAACXE/hH62NJlaMTE/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQMpqroRI/AAAAAAAACXM/Irm3AeFVjgA/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQNIWjNaI/AAAAAAAACXY/La72Xv4NUDI/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQN_XIg9I/AAAAAAAACXg/Sd-rP2RFRQ8/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboQOv8mROI/AAAAAAAACXo/FTjI_tBdErY/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQPGBBPsI/AAAAAAAACX4/kYU0KZkbVNo/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQP1qU7ZI/AAAAAAAACYA/19Nmq93gXvI/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQQnVdNMI/AAAAAAAACYE/jJcps6VJcFE/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQRGcTwqI/AAAAAAAACYM/TaeZkj-Dqm4/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQR_n0zYI/AAAAAAAACYY/yn7RVHdOsUA/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQSW1F99I/AAAAAAAACYc/U71x_OW2hwI/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQS1h0kwI/AAAAAAAACYk/_J0622gMDAk/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQTbgaRHI/AAAAAAAACYs/ZS71mMZSaU4/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQT7e09II/AAAAAAAACYw/2Hyg7yb4Myc/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboQUeOT3wI/AAAAAAAACY4/vEa2FNHqwMI/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQU6f4JxI/AAAAAAAACZA/WErFWn63PNY/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQViRhZgI/AAAAAAAACZI/ERdQUoFxSio/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQWa94fxI/AAAAAAAACZQ/nyN6ZUuS3SA/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQWzYAjgI/AAAAAAAACZY/lSeFTn14lLs/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboQXl2LVrI/AAAAAAAACZg/S2jshV4NH24/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQYUtBk9I/AAAAAAAACZk/FUA5cPfjRpc/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboQY8EjC_I/AAAAAAAACZs/CQEmQxGN9u4/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboQZrhia8I/AAAAAAAACZ4/EZvMF5gIi2A/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboQaMsgHAI/AAAAAAAACaA/jo0WHbPHiBU/Lucky%20Luke%20Tap%2019%20Ngai%20Dai%20Cong%20Tuoc-lucky_luke_tap19_trang46.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

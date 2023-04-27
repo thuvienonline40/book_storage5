@@ -1,0 +1,358 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnt-e_zsiI/AAAAAAAAC3U/_nGKa_hDHpE/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnt_2grUgI/AAAAAAAAC3k/NsML5k3_rmY/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnuA7-H02I/AAAAAAAAC3o/wKqu5ES-sso/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnuCbFkauI/AAAAAAAAC3s/6BGqAAyCg_M/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnuDPfQV_I/AAAAAAAAC3w/Acu2fcNeEoE/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnuIXCfPQI/AAAAAAAAC4M/-1cVEW9PgEU/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnuLayIwAI/AAAAAAAAC4c/I-LhvCPph9w/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnuSee0UzI/AAAAAAAAC44/v7l0VcP7CGY/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnuTBj021I/AAAAAAAAC5A/iLI9uGEdoCs/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnuT-v04hI/AAAAAAAAC5E/AveNqeudrtc/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnuZO4pmsI/AAAAAAAAC5Q/jCur5QyG6Jo/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnuZ0fMW_I/AAAAAAAAC5U/3YkSLmmUGMs/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnufeNY7KI/AAAAAAAAC5o/z8sLfrrYALQ/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnuf8WGsQI/AAAAAAAAC5w/kps_6yUrvG0/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnugtW-iTI/AAAAAAAAC58/ORLDIsV0eZU/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnul9zDMhI/AAAAAAAAC6Q/T6_IBjZ0GHM/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnumwaibAI/AAAAAAAAC6Y/opYJxc_mVak/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnvnHpzYlI/AAAAAAAAC9Y/IZ2zdzcsme0/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnvocuvH7I/AAAAAAAAC9g/8YjLmnBs6NY/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnvpXLrXYI/AAAAAAAAC9o/UP2xLxcPpCQ/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnvqFrh4WI/AAAAAAAAC90/TnKFI6mMu5I/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnvqw4HYTI/AAAAAAAAC98/RgrNl707ZFw/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnvr9HYTkI/AAAAAAAAC-A/Wt7MHR449Mg/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnvu1eurlI/AAAAAAAAC-M/tujNB_AD054/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnvwB2xvVI/AAAAAAAAC-Q/ejCuhaY8atY/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnvw4IFmJI/AAAAAAAAC-U/yaC8zx7M_wA/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnvxmV8obI/AAAAAAAAC-c/lEGu8eFQHzk/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnv0o2cO7I/AAAAAAAAC-s/1R4H8rm18Ck/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnv31EtMdI/AAAAAAAAC-w/WrehL5cMbOQ/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnv67OAzFI/AAAAAAAAC-4/LJpQ2ZdsfW4/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnv9ydI9PI/AAAAAAAAC_E/9yQz4cf0s0Y/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwATDjBjI/AAAAAAAAC_U/xsJQSkG0Xig/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwBLHCbhI/AAAAAAAAC_Y/VLEWehgYnQc/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnwEeKWdHI/AAAAAAAAC_s/5YoMoVI22js/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwFA4UdnI/AAAAAAAAC_0/tQ_PLFbehjA/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnwIEVvELI/AAAAAAAADAA/IvgLyekxSEg/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwLY1rTBI/AAAAAAAADAE/wGHHLU8M_E8/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwOTqdDOI/AAAAAAAADAQ/Ab0-fBSYEMY/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnwP09CvpI/AAAAAAAADAg/DLF4XlG1y8k/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnwQ-w2g8I/AAAAAAAADAo/OZ5GzVQhNYw/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwRrWevGI/AAAAAAAADA0/RCVMFDj3tZo/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnwSRp0TWI/AAAAAAAADBA/CkfEkW6nIjo/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwVuEGd4I/AAAAAAAADBE/tSEaIxTm7Mk/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwWJi47-I/AAAAAAAADBI/2rEo9O7Ej7w/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34-45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnwZP4upOI/AAAAAAAADBM/cnq8c0cNv1k/Lucky%20Luke%20Tap%2038%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-Lucky%20Luke%20Tap%2034%20Nhung%20Chiec%20Banh%20Ngo%20Cho%20Dalton-lluke34bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

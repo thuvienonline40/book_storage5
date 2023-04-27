@@ -1,0 +1,673 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYtSNjyPI/AAAAAAAAA_s/JqAFlN5mUOI/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYuXWWgZI/AAAAAAAAA_w/yofkB_VFrtM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYvH_yYzI/AAAAAAAAA_0/VXESHsPkeTk/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYv7MRDBI/AAAAAAAABAI/K6wwH4Q0Zhc/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYxMn63nI/AAAAAAAABAM/ond0gt5_Y3w/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYyD3BTvI/AAAAAAAABAQ/YXRLeuf-mRk/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYy2ROm4I/AAAAAAAABAY/p6QI2i4AxaI/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYz2Of5AI/AAAAAAAABAk/ZcLVih2rWOQ/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY0q0llvI/AAAAAAAABAs/lDcGnRVsllE/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY1vU1_HI/AAAAAAAABAw/B-D-uCSeXvs/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY2v1fGAI/AAAAAAAABA8/ZeaD3NlHnCY/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY316AwmI/AAAAAAAABBA/ByYolnTklZ8/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboY4imKo_I/AAAAAAAABBI/koMf6-alt5c/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboY5nZGeqI/AAAAAAAABBQ/3qzqWShofFM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY6BN_vqI/AAAAAAAABBY/-nRCiPHMLbM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboY7FKst0I/AAAAAAAABBg/MqehHykyneE/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboY7yAbcLI/AAAAAAAABBs/f6S3R8djrVc/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboY8qHSBWI/AAAAAAAABB0/oL20x14B5Rw/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboY9oeEgxI/AAAAAAAABB8/AVDrm9YqxfA/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY-XioIhI/AAAAAAAABCA/17PYPbelbAw/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY_f0spTI/AAAAAAAABCE/ltmVLEfWHDU/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZAMChS3I/AAAAAAAABCI/oZ0GmnL8ZTk/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZBH9bRpI/AAAAAAAABCM/oADtDZlq0Vk/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZB-6Gr8I/AAAAAAAABCQ/W1wdT6QNKOo/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZCoGWKqI/AAAAAAAABCU/AEgkscGL0gE/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZDXWqVAI/AAAAAAAABCY/twn4GjbgufM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZENZ7wNI/AAAAAAAABCc/L9OiGLTY2O8/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZFJyFKMI/AAAAAAAABCg/nG5OdWNEJqc/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZF6BnfoI/AAAAAAAABCk/x5z3D6Jc8FQ/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZGq_Dm4I/AAAAAAAABCs/UlPhmoilNc4/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZHtR8l4I/AAAAAAAABCw/DwqO8gQaCCo/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZIRyHL6I/AAAAAAAABC0/yoX704-39l4/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZJO-sOXI/AAAAAAAABC8/JqRhVGI3P60/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZKkxXWCI/AAAAAAAABDM/-72FQ8YbUlo/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZLVhvuSI/AAAAAAAABDY/Tm3EF6fN3ag/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZMdRia9I/AAAAAAAABDc/tJQktmN64KI/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZNPaBNhI/AAAAAAAABDk/FLiM7nI-vsg/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZN2cvPSI/AAAAAAAABD0/xk6gy7iT_v8/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZPx3pjUI/AAAAAAAABD8/Bon0kASSS5M/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZRMNTkFI/AAAAAAAABEE/KTQalqzbpLI/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZR-VemhI/AAAAAAAABEY/PkLuTqk4r9E/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZS_6t45I/AAAAAAAABEk/xeyFRG0wB9s/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZTjQT7uI/AAAAAAAABEs/NppkWGGPOMM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZUY3ManI/AAAAAAAABE0/l8hWvG0kAuM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZVNuBNLI/AAAAAAAABE8/Ym3Wfo3_9r4/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYtSNjyPI/AAAAAAAAA_s/JqAFlN5mUOI/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYuXWWgZI/AAAAAAAAA_w/yofkB_VFrtM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYvH_yYzI/AAAAAAAAA_0/VXESHsPkeTk/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboYv7MRDBI/AAAAAAAABAI/K6wwH4Q0Zhc/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYxMn63nI/AAAAAAAABAM/ond0gt5_Y3w/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYyD3BTvI/AAAAAAAABAQ/YXRLeuf-mRk/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboYy2ROm4I/AAAAAAAABAY/p6QI2i4AxaI/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboYz2Of5AI/AAAAAAAABAk/ZcLVih2rWOQ/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY0q0llvI/AAAAAAAABAs/lDcGnRVsllE/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY1vU1_HI/AAAAAAAABAw/B-D-uCSeXvs/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY2v1fGAI/AAAAAAAABA8/ZeaD3NlHnCY/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY316AwmI/AAAAAAAABBA/ByYolnTklZ8/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboY4imKo_I/AAAAAAAABBI/koMf6-alt5c/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboY5nZGeqI/AAAAAAAABBQ/3qzqWShofFM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY6BN_vqI/AAAAAAAABBY/-nRCiPHMLbM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboY7FKst0I/AAAAAAAABBg/MqehHykyneE/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboY7yAbcLI/AAAAAAAABBs/f6S3R8djrVc/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboY8qHSBWI/AAAAAAAABB0/oL20x14B5Rw/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboY9oeEgxI/AAAAAAAABB8/AVDrm9YqxfA/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY-XioIhI/AAAAAAAABCA/17PYPbelbAw/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboY_f0spTI/AAAAAAAABCE/ltmVLEfWHDU/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZAMChS3I/AAAAAAAABCI/oZ0GmnL8ZTk/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZBH9bRpI/AAAAAAAABCM/oADtDZlq0Vk/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZB-6Gr8I/AAAAAAAABCQ/W1wdT6QNKOo/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZCoGWKqI/AAAAAAAABCU/AEgkscGL0gE/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZDXWqVAI/AAAAAAAABCY/twn4GjbgufM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZENZ7wNI/AAAAAAAABCc/L9OiGLTY2O8/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZFJyFKMI/AAAAAAAABCg/nG5OdWNEJqc/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZF6BnfoI/AAAAAAAABCk/x5z3D6Jc8FQ/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZGq_Dm4I/AAAAAAAABCs/UlPhmoilNc4/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZHtR8l4I/AAAAAAAABCw/DwqO8gQaCCo/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZIRyHL6I/AAAAAAAABC0/yoX704-39l4/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZJO-sOXI/AAAAAAAABC8/JqRhVGI3P60/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZKkxXWCI/AAAAAAAABDM/-72FQ8YbUlo/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZLVhvuSI/AAAAAAAABDY/Tm3EF6fN3ag/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZMdRia9I/AAAAAAAABDc/tJQktmN64KI/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZNPaBNhI/AAAAAAAABDk/FLiM7nI-vsg/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboZN2cvPSI/AAAAAAAABD0/xk6gy7iT_v8/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZPx3pjUI/AAAAAAAABD8/Bon0kASSS5M/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZRMNTkFI/AAAAAAAABEE/KTQalqzbpLI/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZR-VemhI/AAAAAAAABEY/PkLuTqk4r9E/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboZS_6t45I/AAAAAAAABEk/xeyFRG0wB9s/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZTjQT7uI/AAAAAAAABEs/NppkWGGPOMM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZUY3ManI/AAAAAAAABE0/l8hWvG0kAuM/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboZVNuBNLI/AAAAAAAABE8/Ym3Wfo3_9r4/Lucky%20Luke%20Tap%2005%20Hon%20The%20Lucky%20Luke-lluke-05bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

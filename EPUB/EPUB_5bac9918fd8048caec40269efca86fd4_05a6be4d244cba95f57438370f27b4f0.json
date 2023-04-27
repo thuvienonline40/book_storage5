@@ -1,0 +1,673 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaSpLf9PI/AAAAAAAABMs/yWL1bLlbXwc/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-0-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaTsKx5UI/AAAAAAAABMw/cbWlEus9eY0/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-1-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboagNtUSGI/AAAAAAAABOE/vkNlBihXzIc/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-2-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboat9UZkQI/AAAAAAAABPQ/VFh7tPvezPo/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-3-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa6f0OUHI/AAAAAAAABRA/YHfqslVreC4/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-4-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobAUiGE7I/AAAAAAAABR8/h_RZ7rGNf98/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-5-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TbobBSORwfI/AAAAAAAABSA/EgbN_LiNTk4/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-6-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobCTrMqeI/AAAAAAAABSE/kg6murftDRk/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-7-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobDqOVDJI/AAAAAAAABSI/ykyEQTRLnak/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-8-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobEhKFb-I/AAAAAAAABSM/AB4DmbMY4dI/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-9-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaU8tDUnI/AAAAAAAABM0/6t8mhtNnQe8/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-10-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaV7Om6sI/AAAAAAAABM8/nvPQNRn_DIY/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-11-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaW0IOSlI/AAAAAAAABNA/Dm3k8eakXYc/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-12-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaX_egq1I/AAAAAAAABNI/xENPbdLswng/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-13-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaZBv-nfI/AAAAAAAABNQ/Kjks-eRIf7o/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-14-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaaNB4kvI/AAAAAAAABNU/cXvkWyraIh0/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-15-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboab4olz4I/AAAAAAAABNg/ZkuU7sQMZOw/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-16-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboacyS6ZJI/AAAAAAAABNw/QAvnyVGyGOI/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-17-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboad2HUbZI/AAAAAAAABN4/UZau8Bmfe2Y/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-18-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboafDHTk-I/AAAAAAAABN8/oKXHRnfjS8U/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-19-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboahe35k2I/AAAAAAAABOI/hCEwSHkkB0g/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-20-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboaiipf1aI/AAAAAAAABOM/-P7aWYzYnyM/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-21-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboaj6KjnpI/AAAAAAAABOU/pugH0cpKp9k/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-22-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboalLDlc9I/AAAAAAAABOg/K8PCxiA08f4/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-23-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboam__3f7I/AAAAAAAABOk/pQQMbti4XVQ/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-24-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboan0LMPGI/AAAAAAAABOs/MS5X8Kq__Jo/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-25-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboapAwInUI/AAAAAAAABO4/RDEWoecTSQU/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-26-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaqknzgLI/AAAAAAAABO8/ud0_9vyP9-M/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-27-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboarlwfQAI/AAAAAAAABPA/RcC2H-i2Iic/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-28-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboasgfxZ7I/AAAAAAAABPI/smYGA4R8tGQ/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-29-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboavEsIM4I/AAAAAAAABPY/6_DIMUuwKSs/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-30-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboawtmLzFI/AAAAAAAABPk/kMDWWHRTPcI/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-31-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboax1B9UNI/AAAAAAAABP0/VCyd7pN4XUE/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-32-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboazMN1klI/AAAAAAAABP8/oO1_Kv0ssbo/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-33-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa0aNzMBI/AAAAAAAABQM/PA_ZxBx5zYE/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-34-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa1fJ-bBI/AAAAAAAABQU/NxPDA5_fWCs/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-35-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa2eedtHI/AAAAAAAABQc/4mH-Lvz-X6o/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-36-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa3UP3ExI/AAAAAAAABQk/FGXxPzH0u6o/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-37-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa4G88qxI/AAAAAAAABQs/wkpGWdTWuKw/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-38-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa5UDzlOI/AAAAAAAABQ4/2WZddryz-jE/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-39-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa7eds7AI/AAAAAAAABRI/mdlFaZnY6gs/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-40-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa8bHgIHI/AAAAAAAABRU/satijc0nZHY/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-41-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa9XwbtuI/AAAAAAAABRc/XXRyfWJa2KE/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-42-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa-fwdPzI/AAAAAAAABRo/g2ZxYI5G7-s/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-43-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa_ua0QkI/AAAAAAAABR0/B-HcdGws6Qs/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-44-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaSpLf9PI/AAAAAAAABMs/yWL1bLlbXwc/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-0-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaTsKx5UI/AAAAAAAABMw/cbWlEus9eY0/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-1-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboagNtUSGI/AAAAAAAABOE/vkNlBihXzIc/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-2-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboat9UZkQI/AAAAAAAABPQ/VFh7tPvezPo/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-3-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa6f0OUHI/AAAAAAAABRA/YHfqslVreC4/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-4-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobAUiGE7I/AAAAAAAABR8/h_RZ7rGNf98/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-5-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TbobBSORwfI/AAAAAAAABSA/EgbN_LiNTk4/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-6-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobCTrMqeI/AAAAAAAABSE/kg6murftDRk/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-7-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobDqOVDJI/AAAAAAAABSI/ykyEQTRLnak/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-8-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TbobEhKFb-I/AAAAAAAABSM/AB4DmbMY4dI/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-9-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaU8tDUnI/AAAAAAAABM0/6t8mhtNnQe8/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-10-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaV7Om6sI/AAAAAAAABM8/nvPQNRn_DIY/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-11-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaW0IOSlI/AAAAAAAABNA/Dm3k8eakXYc/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-12-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaX_egq1I/AAAAAAAABNI/xENPbdLswng/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-13-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboaZBv-nfI/AAAAAAAABNQ/Kjks-eRIf7o/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-14-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboaaNB4kvI/AAAAAAAABNU/cXvkWyraIh0/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-15-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboab4olz4I/AAAAAAAABNg/ZkuU7sQMZOw/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-16-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboacyS6ZJI/AAAAAAAABNw/QAvnyVGyGOI/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-17-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboad2HUbZI/AAAAAAAABN4/UZau8Bmfe2Y/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-18-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboafDHTk-I/AAAAAAAABN8/oKXHRnfjS8U/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-19-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboahe35k2I/AAAAAAAABOI/hCEwSHkkB0g/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-20-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboaiipf1aI/AAAAAAAABOM/-P7aWYzYnyM/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-21-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboaj6KjnpI/AAAAAAAABOU/pugH0cpKp9k/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-22-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboalLDlc9I/AAAAAAAABOg/K8PCxiA08f4/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-23-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboam__3f7I/AAAAAAAABOk/pQQMbti4XVQ/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-24-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboan0LMPGI/AAAAAAAABOs/MS5X8Kq__Jo/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-25-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboapAwInUI/AAAAAAAABO4/RDEWoecTSQU/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-26-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboaqknzgLI/AAAAAAAABO8/ud0_9vyP9-M/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-27-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboarlwfQAI/AAAAAAAABPA/RcC2H-i2Iic/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-28-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboasgfxZ7I/AAAAAAAABPI/smYGA4R8tGQ/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-29-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboavEsIM4I/AAAAAAAABPY/6_DIMUuwKSs/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-30-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboawtmLzFI/AAAAAAAABPk/kMDWWHRTPcI/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-31-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboax1B9UNI/AAAAAAAABP0/VCyd7pN4XUE/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-32-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboazMN1klI/AAAAAAAABP8/oO1_Kv0ssbo/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-33-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa0aNzMBI/AAAAAAAABQM/PA_ZxBx5zYE/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-34-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa1fJ-bBI/AAAAAAAABQU/NxPDA5_fWCs/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-35-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa2eedtHI/AAAAAAAABQc/4mH-Lvz-X6o/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-36-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa3UP3ExI/AAAAAAAABQk/FGXxPzH0u6o/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-37-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa4G88qxI/AAAAAAAABQs/wkpGWdTWuKw/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-38-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa5UDzlOI/AAAAAAAABQ4/2WZddryz-jE/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-39-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa7eds7AI/AAAAAAAABRI/mdlFaZnY6gs/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-40-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/Tboa8bHgIHI/AAAAAAAABRU/satijc0nZHY/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-41-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/Tboa9XwbtuI/AAAAAAAABRc/XXRyfWJa2KE/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-42-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa-fwdPzI/AAAAAAAABRo/g2ZxYI5G7-s/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-43-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/Tboa_ua0QkI/AAAAAAAABR0/B-HcdGws6Qs/Lucky%20Luke%20Tap%2002%20Ke%20San%20Tien%20Thuong-LuckyLuke-2-%20-44-.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

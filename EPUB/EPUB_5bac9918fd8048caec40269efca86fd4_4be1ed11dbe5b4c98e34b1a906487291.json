@@ -1,0 +1,372 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRJsqjE-I/AAAAAAAAChM/ztvAlC1F_aQ/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang00.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRKKiaHoI/AAAAAAAAChQ/NErwSDE6Bfo/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboRKmB-riI/AAAAAAAAChY/fY0mcErKnik/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRLRd1QAI/AAAAAAAAChk/i9j37DOSwaY/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRMFB5tkI/AAAAAAAAChw/LcfDyEy8tig/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRNJqKoQI/AAAAAAAACh4/ylJ-0sFTCU0/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboROLgQ1iI/AAAAAAAACiA/fvNcx63MGzQ/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRO_n2GxI/AAAAAAAACiI/fPpDMzHhCH8/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRPge4hOI/AAAAAAAACiQ/5fh-D6QZ5KY/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRQhXAPBI/AAAAAAAACiY/poQoozSB5DY/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRRaGAaiI/AAAAAAAACik/EKE2HZWPyGI/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRSK-Zb1I/AAAAAAAACis/6yexm9rgRa4/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRTQioQ0I/AAAAAAAACi0/XF5nkVyAKH8/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboRUIAgvFI/AAAAAAAACi8/1aSpaC2NrUM/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRU-e_wuI/AAAAAAAACjI/DqMsYWBQS4I/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboRVgwKGOI/AAAAAAAACjQ/1NDYZy6OZEs/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRWR2OwAI/AAAAAAAACjY/XhzCpUcswe4/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRXNLawpI/AAAAAAAACjg/659Y3ONoLmM/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRXz-iSaI/AAAAAAAACjs/EDFaEiHkYk4/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRYglJZRI/AAAAAAAACj4/szC6P0MhYH0/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRZuP56qI/AAAAAAAACkE/P9uZbceBjqI/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRaT-MMyI/AAAAAAAACkM/MXJA6j0V-YQ/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRbJdGs2I/AAAAAAAACkU/NbQc2AAgDus/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRcUO6eEI/AAAAAAAACkg/DRbPmPV9s0I/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRdOCuEHI/AAAAAAAACko/M1nSZBKDnhs/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboReCem91I/AAAAAAAACkw/u52Pjs0s1UQ/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRji2oxiI/AAAAAAAAClM/CgHc6XX9qjQ/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRkkeJ24I/AAAAAAAAClQ/KFYLk59Wucg/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRlSSkZuI/AAAAAAAAClY/5hLlreTcrrs/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboRmuq2iZI/AAAAAAAAClg/hcOstRxpoB8/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboRnTGbQzI/AAAAAAAAClo/6TPygZdgmuk/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboRoNY8-HI/AAAAAAAAClw/G8PIurAcljs/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRpPMPdUI/AAAAAAAACl4/L1nQy-xg3Tc/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRp5NSE8I/AAAAAAAACmA/hzu7XBm1dCQ/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRqyginjI/AAAAAAAACmI/zvFeEjBJ2HI/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRruDx0zI/AAAAAAAACmU/CF3RkzU3a2k/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRsU6pbTI/AAAAAAAACmc/YDROxMDIfcs/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRtfeMtQI/AAAAAAAACmk/UA2wK3Mgvug/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRuOMfuSI/AAAAAAAACms/kShDVMV95fg/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRvBAVLsI/AAAAAAAACm0/ZN81JaOaec0/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRv7ffYXI/AAAAAAAACm8/6haTO-PzLlY/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRwofpfBI/AAAAAAAACnE/kV3fvtOsbKg/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRxkG_MGI/AAAAAAAACnM/mTtIesJE03s/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRyCuK7VI/AAAAAAAACnQ/4Eny1UBV4YY/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboRy7vriII/AAAAAAAACng/VziVaaBlyBc/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboRzjtvohI/AAAAAAAACno/Z4aUSQh-_fc/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboR0DiGb6I/AAAAAAAACnw/AFEzzJnSdMM/Lucky%20Luke%20Tap%2015%20Ma%20Dalton-LuckyLuke-Tap15-Trang46.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

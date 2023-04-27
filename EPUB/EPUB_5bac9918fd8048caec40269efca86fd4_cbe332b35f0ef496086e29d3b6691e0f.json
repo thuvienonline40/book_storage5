@@ -1,0 +1,659 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUqJmi6SI/AAAAAAAAAbg/f8eNm8Napys/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0003.JPG?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUq2BDW7I/AAAAAAAAAbk/M51nERtQwBs/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0004.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUrUAJYXI/AAAAAAAAAbs/DObHMvhikSY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0005.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUsGWBo_I/AAAAAAAAAbw/cphdfNdK6UY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0006.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUslRmb8I/AAAAAAAAAb4/PkKv5Ziwxoo/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0007.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUtck8dgI/AAAAAAAAAcI/Qtx60jo7Y3A/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0008.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUuIME5wI/AAAAAAAAAcQ/fJdc2d3mNEA/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0009.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUujf_RyI/AAAAAAAAAcY/Wu1l7ka08gw/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0010.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUvD6IqII/AAAAAAAAAco/lkjdzX1CU98/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0011.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUvslXtMI/AAAAAAAAAcs/GTKCdDWKrwk/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0012.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUwT6Tt4I/AAAAAAAAAc0/ku142hAuWMA/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0013.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUw2pPR8I/AAAAAAAAAc8/LOOS1_4aLBM/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0014.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUxpFJHrI/AAAAAAAAAdE/1w4GwXeDCig/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0015.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUyWaXhhI/AAAAAAAAAdI/0Nx4-uKcewE/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0016.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUyyNzziI/AAAAAAAAAdQ/4jNmE3eefIc/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0017.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUzvX9P-I/AAAAAAAAAdY/qhJsQ_PY1RY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0018.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU0fRsWUI/AAAAAAAAAdg/HTYf9zWzJGU/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0019.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU04Q40wI/AAAAAAAAAdo/NppUDB_xujY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0020.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU1SWQKBI/AAAAAAAAAd0/oFuH0NlyLbI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0021.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboU2JVaixI/AAAAAAAAAd8/QWDfLnNBJxY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0022.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU2xfGNRI/AAAAAAAAAeA/RuO81TmC-Fk/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0023.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU3sZZ1NI/AAAAAAAAAeE/0d_CWFubFoM/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0024.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboU4TNpWDI/AAAAAAAAAeI/4rm4Rlb46eg/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0025.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU5GA_9eI/AAAAAAAAAeQ/YaUU4dmPO-k/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0026.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboU52NJYTI/AAAAAAAAAeY/GZQD-vkXwQI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0027.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU6-pEmcI/AAAAAAAAAeg/GANgsYNCDEI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0028.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboU7uoGIPI/AAAAAAAAAew/HFH_DY5aJPU/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0029.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboU8klybaI/AAAAAAAAAe0/Ljsre-PSqak/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0030.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU9flkxKI/AAAAAAAAAe8/nquaCvpTxWI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0031.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU-_jIqxI/AAAAAAAAAfE/sfhht42DZTw/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0032.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboU_o_mr7I/AAAAAAAAAfI/LpgifG-4TLY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0033.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboVAT45vDI/AAAAAAAAAfQ/mxvJ6Fi8GDI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0034.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVBFglfTI/AAAAAAAAAfY/k9QSJVlmrAE/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0035.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVCstzi3I/AAAAAAAAAfc/DGjoSIjC3zU/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0036.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVDTq2p6I/AAAAAAAAAfk/sx8P8b8SjPQ/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0037.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboVEGSQuKI/AAAAAAAAAfs/15moXj8wvxM/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0038.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboVE15pViI/AAAAAAAAAf4/Fdos3ewju3o/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0039.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboVFhUYKAI/AAAAAAAAAgE/TnljBLbUH5A/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0040.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboVGWBHftI/AAAAAAAAAgM/ZLQKt777wr4/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0041.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVHEP5-2I/AAAAAAAAAgU/EO-fKK7RcDo/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0042.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVHoqF7kI/AAAAAAAAAgc/etSAEjEyZ9A/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0043.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVIZqmSCI/AAAAAAAAAgk/KdwVR1xKmtQ/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0044.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVI2FYZeI/AAAAAAAAAgs/c4Bwy6eXFeg/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0045.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboVJsv82fI/AAAAAAAAAg0/ceuKBsVxa14/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0046.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUqJmi6SI/AAAAAAAAAbg/f8eNm8Napys/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0003.JPG?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUq2BDW7I/AAAAAAAAAbk/M51nERtQwBs/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0004.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUrUAJYXI/AAAAAAAAAbs/DObHMvhikSY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0005.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUsGWBo_I/AAAAAAAAAbw/cphdfNdK6UY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0006.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUslRmb8I/AAAAAAAAAb4/PkKv5Ziwxoo/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0007.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUtck8dgI/AAAAAAAAAcI/Qtx60jo7Y3A/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0008.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUuIME5wI/AAAAAAAAAcQ/fJdc2d3mNEA/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0009.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUujf_RyI/AAAAAAAAAcY/Wu1l7ka08gw/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0010.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUvD6IqII/AAAAAAAAAco/lkjdzX1CU98/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0011.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUvslXtMI/AAAAAAAAAcs/GTKCdDWKrwk/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0012.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUwT6Tt4I/AAAAAAAAAc0/ku142hAuWMA/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0013.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUw2pPR8I/AAAAAAAAAc8/LOOS1_4aLBM/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0014.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUxpFJHrI/AAAAAAAAAdE/1w4GwXeDCig/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0015.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboUyWaXhhI/AAAAAAAAAdI/0Nx4-uKcewE/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0016.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboUyyNzziI/AAAAAAAAAdQ/4jNmE3eefIc/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0017.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboUzvX9P-I/AAAAAAAAAdY/qhJsQ_PY1RY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0018.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU0fRsWUI/AAAAAAAAAdg/HTYf9zWzJGU/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0019.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU04Q40wI/AAAAAAAAAdo/NppUDB_xujY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0020.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU1SWQKBI/AAAAAAAAAd0/oFuH0NlyLbI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0021.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboU2JVaixI/AAAAAAAAAd8/QWDfLnNBJxY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0022.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU2xfGNRI/AAAAAAAAAeA/RuO81TmC-Fk/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0023.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU3sZZ1NI/AAAAAAAAAeE/0d_CWFubFoM/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0024.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboU4TNpWDI/AAAAAAAAAeI/4rm4Rlb46eg/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0025.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU5GA_9eI/AAAAAAAAAeQ/YaUU4dmPO-k/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0026.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboU52NJYTI/AAAAAAAAAeY/GZQD-vkXwQI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0027.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU6-pEmcI/AAAAAAAAAeg/GANgsYNCDEI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0028.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboU7uoGIPI/AAAAAAAAAew/HFH_DY5aJPU/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0029.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboU8klybaI/AAAAAAAAAe0/Ljsre-PSqak/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0030.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU9flkxKI/AAAAAAAAAe8/nquaCvpTxWI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0031.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboU-_jIqxI/AAAAAAAAAfE/sfhht42DZTw/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0032.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboU_o_mr7I/AAAAAAAAAfI/LpgifG-4TLY/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0033.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboVAT45vDI/AAAAAAAAAfQ/mxvJ6Fi8GDI/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0034.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVBFglfTI/AAAAAAAAAfY/k9QSJVlmrAE/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0035.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVCstzi3I/AAAAAAAAAfc/DGjoSIjC3zU/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0036.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVDTq2p6I/AAAAAAAAAfk/sx8P8b8SjPQ/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0037.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboVEGSQuKI/AAAAAAAAAfs/15moXj8wvxM/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0038.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboVE15pViI/AAAAAAAAAf4/Fdos3ewju3o/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0039.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboVFhUYKAI/AAAAAAAAAgE/TnljBLbUH5A/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0040.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LPeQboNGS7Q/TboVGWBHftI/AAAAAAAAAgM/ZLQKt777wr4/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0041.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVHEP5-2I/AAAAAAAAAgU/EO-fKK7RcDo/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0042.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVHoqF7kI/AAAAAAAAAgc/etSAEjEyZ9A/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0043.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVIZqmSCI/AAAAAAAAAgk/KdwVR1xKmtQ/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0044.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LPeQboNGS7Q/TboVI2FYZeI/AAAAAAAAAgs/c4Bwy6eXFeg/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0045.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LPeQboNGS7Q/TboVJsv82fI/AAAAAAAAAg0/ceuKBsVxa14/Lucky%20Luke%20Tap%2009%20Calamity%20Jane-LuckyLuke0046.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

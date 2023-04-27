@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnivpR4eXI/AAAAAAAAB9Q/iHDaEBahn5s/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbniypzdIZI/AAAAAAAAB9g/hgu213Zo6KA/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnizUFMLDI/AAAAAAAAB9k/entsYcvmbhM/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbni4cqBG6I/AAAAAAAAB-E/QqMvsEnLhmg/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbni79Un9CI/AAAAAAAAB-Q/siCohJK-cgM/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbni9b4t5YI/AAAAAAAAB-Y/d9wDbE6tML0/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbni-OH377I/AAAAAAAAB-g/yDhBD7000po/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbni--P7fhI/AAAAAAAAB-k/wyjQFi2zK4I/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbni_0FISlI/AAAAAAAAB-o/E5j6X8KI8SE/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjAgcnAyI/AAAAAAAAB-s/SYi-Uy-UTCU/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjDtC0a4I/AAAAAAAAB_I/UpZknEXai4Q/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjESjQjEI/AAAAAAAAB_Q/lHUGNKZ2mfE/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjFIS1zAI/AAAAAAAAB_c/PrTIKteJHH8/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjIJPKVKI/AAAAAAAAB_o/ybYwuOuS97M/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjI1Yhv8I/AAAAAAAAB_w/i4s1AKhKYjQ/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnjJmUJNzI/AAAAAAAAB_4/laQMZMxxppw/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjKSVHoSI/AAAAAAAAB_8/3XSftoDPTHY/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjK3Ci3ZI/AAAAAAAACAE/qsh3ZIo9Pvk/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjQUeVVkI/AAAAAAAACAk/mSViomJMQ0o/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjRBt92CI/AAAAAAAACAo/SFSshTLSWuM/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjRlhDIYI/AAAAAAAACAs/KGdjCW8dxkU/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjUniP7GI/AAAAAAAACBE/rpPR_8a7xKc/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjVfAM8eI/AAAAAAAACBQ/71SXbgsmXV8/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjW9xb4DI/AAAAAAAACBg/BzP9d7PXFkI/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjXlnAqQI/AAAAAAAACBk/msKJV4aQJZo/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnjan1TdfI/AAAAAAAACB4/-E8SPwAbmvg/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjbeiFcxI/AAAAAAAACCA/gtG8UZhWPNo/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjcAJiaFI/AAAAAAAACCE/6h5Gw9s2YQE/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnjcyu2eBI/AAAAAAAACCI/pAQBB6stf-w/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnjdsBB3EI/AAAAAAAACCQ/IJT7Rmc7F4o/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnjeK9B65I/AAAAAAAACCY/_RZTHBWXmU8/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjfPQWvoI/AAAAAAAACCg/MfwXNXvaGsg/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnjf1s4vRI/AAAAAAAACCo/x_LucGZidmE/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnjnW_CKII/AAAAAAAACDY/VKEltRGl364/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjoyqNt-I/AAAAAAAACDk/F-nzJeWSPms/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnjr4XB-DI/AAAAAAAACD0/aPRRVNozTI8/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnjsl19oQI/AAAAAAAACD4/x6_gJzW-ReI/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjtRrDtMI/AAAAAAAACEA/Ze8NZdLxMgg/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnjtwswuEI/AAAAAAAACEM/IvNqAZkxbZg/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnjw9U3bpI/AAAAAAAACEg/SKxX4w8Beds/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnjx3ug1oI/AAAAAAAACEs/DmuPahnlCKI/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnjy42OsLI/AAAAAAAACEw/xpX95JJFI64/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnjzrTUK_I/AAAAAAAACE4/_h9aLeme5p0/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnj2-a3v6I/AAAAAAAACFA/_QRUyVj1sm8/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnj3pWhufI/AAAAAAAACFE/tMI0aMg5zyE/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-bia1.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnj4Yoq5MI/AAAAAAAACFI/ZsE3trcOaHQ/Lucky%20Luke%20Tap%2053%20Mot%20Cuoc%20Vuot%20Nguc%20Li%20Thu%20Cua%20Anh%20Em%20Nha%20Dalton-lluke-46-bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,372 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnrYU9nZMI/AAAAAAAACrc/yk1ufaytA3A/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnrZXvSYtI/AAAAAAAACrg/pLHlRl9vuOQ/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnraWD6CLI/AAAAAAAACrk/trD-G3GPyoc/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnrbXUn7_I/AAAAAAAACro/-NctBsKWX-s/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnrceCR2fI/AAAAAAAACrw/uVv3E0NEss0/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnrdXpdRBI/AAAAAAAACr0/hJQUyTqDc1U/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnrgizuv5I/AAAAAAAACsA/Gw13BgDMBS8/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnrjypItqI/AAAAAAAACsI/uOXKIheSsB0/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnrlnCXu2I/AAAAAAAACsU/hClsrOW58Oo/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnrmjg8EfI/AAAAAAAACsg/Iw0wFkdGrVA/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnrp5gb9ZI/AAAAAAAACtA/E5g3jz6uWiY/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnrq5f5PMI/AAAAAAAACtI/pquxH-wF620/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnrrwfDbwI/AAAAAAAACtQ/hZjuS3hcdJc/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnrs1--3zI/AAAAAAAACtc/UxDMbALrkcQ/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnrt5JB5sI/AAAAAAAACto/2tTE7J0UsD8/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnrxKhHL_I/AAAAAAAACtw/q7mNHneGokA/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnryPIuKiI/AAAAAAAACt4/w4elHEEh3Yc/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnr3pR-KUI/AAAAAAAACuY/jEoa__oVHI0/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnr4ul3rFI/AAAAAAAACug/esF9HVPfimc/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnr5qXnLpI/AAAAAAAACuo/fIBvpMeRlP4/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnr6tEEWVI/AAAAAAAACus/9yjeWTzz1Ic/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnr9_QMbqI/AAAAAAAACuw/LRzoWNSM4F4/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnr-xGdaEI/AAAAAAAACu0/C8gNjaWhRGk/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnr_vdJqyI/AAAAAAAACu4/pcDFOuOqpeg/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnsH6v8KOI/AAAAAAAACvU/frqU6BGfSSc/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsLmqa6zI/AAAAAAAACvc/sMQbcy7MlKM/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnsNQyotPI/AAAAAAAACvo/dp95-OS9qZ8/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsOBkKqSI/AAAAAAAACvs/M3ZcMBdjbgs/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnsRb7QepI/AAAAAAAACv0/C4DU1PWGGa4/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnsSYKGsHI/AAAAAAAACv8/J73qjBEARgA/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsTk5SMJI/AAAAAAAACwA/PzBt9pEsDWk/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnsUiP7K0I/AAAAAAAACwE/Dlej6KqQ748/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnsZ-NwGkI/AAAAAAAACwc/yEHo5hLE8ew/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsdHmoVbI/AAAAAAAACws/IBNRdGCmG4E/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsePoE39I/AAAAAAAACw0/QVJWc4ErA0M/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsfPMeFLI/AAAAAAAACw4/Zw9NNhac8Ns/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnsf5MO0QI/AAAAAAAACw8/PHUrYdE89SY/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnshkril1I/AAAAAAAACxA/4PQy1Fl2Zqk/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsimqQWJI/AAAAAAAACxI/lBX1HDJOLLs/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsnruCxAI/AAAAAAAACxM/4x-oUDdQsJ0/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnspD0NSdI/AAAAAAAACxQ/rKBMVIpthDY/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnsp5qo0ZI/AAAAAAAACxU/RXLZzcCsn3Q/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnsqsk_8bI/AAAAAAAACxc/dhcGpQnAzyI/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsrbE59wI/AAAAAAAACxo/6wAjzJQc9bM/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnsryLve5I/AAAAAAAACxw/fC5c0jG10p8/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36-45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnssmtWWZI/AAAAAAAACx0/zijj-4Faj74/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36bia1.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnszxTnRbI/AAAAAAAACyQ/EyCBAGyWvik/Lucky%20Luke%20Tap%2040%20Gia%20Tai%20Cua%20Ran-Tan-Plan-lluke-36bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

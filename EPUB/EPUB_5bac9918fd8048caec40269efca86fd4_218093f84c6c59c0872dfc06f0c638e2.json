@@ -1,0 +1,351 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndwjhERxI/AAAAAAAABWc/IRNBCyhcTkY/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang003.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbndxdo4SXI/AAAAAAAABWo/msSKwtWwmmI/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang004.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndyVSw6LI/AAAAAAAABW0/agm2uFsLl_Y/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang005.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndzNWE-eI/AAAAAAAABW8/QiLfhZ5KGXs/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang006.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnd2GI5R_I/AAAAAAAABXY/ccyO40cDlt4/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang007.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnd29MYfaI/AAAAAAAABXg/S2OXluLvrYE/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang008.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnd3jxPi6I/AAAAAAAABXo/z9pGI474ZrI/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang009.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnd4euBdQI/AAAAAAAABXw/sJ73OGnFfxQ/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang010.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnd_zDuS5I/AAAAAAAABYU/hCFQuFXefZU/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang011.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbneAgrjYcI/AAAAAAAABYY/f5f9YMB4ov4/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang012.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneBbVve8I/AAAAAAAABYc/YpFk_lLyo0E/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang013.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneCCLAOzI/AAAAAAAABYg/jxF8BfMgbOA/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang014.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneC355mLI/AAAAAAAABYk/mTSh-pk29FI/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang015.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbneDpQtZuI/AAAAAAAABYs/Y-I7TcNGZuQ/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang016.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneETiZnaI/AAAAAAAABY4/9IDIo2jJim0/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang017.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneFFkM9II/AAAAAAAABZI/pUcsboPUvqQ/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang018.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbneGGArzdI/AAAAAAAABZU/UJ8XDIAIVMA/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang019.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneG5HVjHI/AAAAAAAABZg/M4AfwYAJT9M/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang020.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbneJ0PQwiI/AAAAAAAABZ8/1k2-X25qhNk/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang021.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneKskovXI/AAAAAAAABaA/5kOdNclSIsM/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang022.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbneNySOCuI/AAAAAAAABaU/ptRdkNTsiPk/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang023.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneOn0q4UI/AAAAAAAABaY/b3BibINbUT8/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang024.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneWd5v2RI/AAAAAAAABbE/Zo9oTIhkQkI/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang025.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneZSStLPI/AAAAAAAABbI/wSGvhogVV9M/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang026.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnedHOSO7I/AAAAAAAABbk/lwkTeBwKRh0/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang027.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbned5uoa9I/AAAAAAAABbo/Ph3biTN5yNk/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang028.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbneeugVXsI/AAAAAAAABbs/w-2YzV0h990/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang029.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnehmmo5BI/AAAAAAAABb0/oYf4nQry01A/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang030.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneiV3r42I/AAAAAAAABb8/Bjk_DvRvIJ0/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang031.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnejvhdhhI/AAAAAAAABcA/RHWn8qzSTFw/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang032.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnekccr5kI/AAAAAAAABcE/QqIfkCcA36Y/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang033.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnelIfweYI/AAAAAAAABcQ/W77R3IU3BYE/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang034.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbneoPMKVTI/AAAAAAAABck/PPuF5J03lY4/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang035.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnepDQmbWI/AAAAAAAABc4/-Z7J8UDj0w4/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang036.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnepzcL7FI/AAAAAAAABdA/W4NaJyqatuQ/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang037.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbneq8Wb17I/AAAAAAAABdI/WWIV-37CbBs/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang038.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnetyagR0I/AAAAAAAABdg/KKLjVNHGS-U/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang039.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnew-1v25I/AAAAAAAABds/DT6Kvxyyp3U/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang040.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnez7IkffI/AAAAAAAABeE/zScrP1z8x6A/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang041.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbne0_Z1Q9I/AAAAAAAABeQ/E0u5DIFlsm8/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang042.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbne6KwxHwI/AAAAAAAABek/2PAU5nP_AT4/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang043.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbne6y3vwfI/AAAAAAAABew/zeVqN6NGiHg/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang044.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnfA1cjEAI/AAAAAAAABfk/B9AVXz_pLdw/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang045.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnfB6cfY0I/AAAAAAAABfs/s8uMyGRfo0M/Lucky%20Luke%20Tap%2064%20Marcel%20Dalton%20chu%20cua%20tu%20quai%20Dalton-trang046.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

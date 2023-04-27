@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOJiocudI/AAAAAAAACAw/OpeOJxCiuSw/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOK2acOYI/AAAAAAAACA0/DhseptcoCe0/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOMMh5rYI/AAAAAAAACA4/7lCXBfDkvSY/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOM6gbimI/AAAAAAAACBA/V6VksT-SjTE/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboONqreLBI/AAAAAAAACBI/eSlXXdc9l48/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOOTI4-XI/AAAAAAAACBM/yac1aTOQBus/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOPJHtwEI/AAAAAAAACBU/mo30C5ul6H4/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOQOYvcyI/AAAAAAAACBc/1hn9wn_oHhc/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOQ4WmteI/AAAAAAAACBk/-L4pqtlFFdQ/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboORjYZszI/AAAAAAAACBs/hfgsykfRX9k/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOScG6mDI/AAAAAAAACB4/vMvzQCdwbQE/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOTGbDTgI/AAAAAAAACB8/vUukH4opeJA/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOT5pmaTI/AAAAAAAACCI/42dsskMDx-c/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOUnPbd1I/AAAAAAAACCQ/EOlXoDtsaHw/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOVcMgtnI/AAAAAAAACCY/75IxYh1KCTc/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboOWPlUh9I/AAAAAAAACCc/kyqTUVgMRa0/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOWwakkJI/AAAAAAAACCk/Erb6r-KQ4aY/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOX4An9jI/AAAAAAAACCs/-MgHXlssol4/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOYnPUFzI/AAAAAAAACC0/q0JXwTNx4Xs/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOZZW4hWI/AAAAAAAACDA/w70Y9jsSFx8/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboOaO88joI/AAAAAAAACDI/B26tuY9CM2k/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOa8iv8LI/AAAAAAAACDM/XZpgq9_CeR0/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboObt4OTSI/AAAAAAAACDQ/BImd4Bz69Gs/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOcdk2wvI/AAAAAAAACDU/Wg6iqizOZBg/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOdAmpOTI/AAAAAAAACDg/DwPLfF9IHzg/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOeUO4g9I/AAAAAAAACDo/zvzGfc6-kFo/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOfXc4swI/AAAAAAAACD0/wrp0nbEPQiY/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOgLYOjGI/AAAAAAAACD8/fpsUq2Fby9c/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOg0GCXRI/AAAAAAAACEE/8svFcXp16_4/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOhoET6lI/AAAAAAAACEM/CtSXIQF-TSg/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboOifH7X_I/AAAAAAAACEU/Fm-1kMynThs/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboOjMasR3I/AAAAAAAACEc/qFLrz3830bE/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOjxmSN9I/AAAAAAAACEk/w2eCbtFQ_ZQ/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOkmVA22I/AAAAAAAACEs/RE-woox-wOw/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOlqtc09I/AAAAAAAACE4/o25gYzg0PTU/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOmVuG81I/AAAAAAAACFA/TG-snwZvOas/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOpMaqERI/AAAAAAAACFU/sy3S2LXhGlY/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboOp6ONCwI/AAAAAAAACFc/AZu6ciA0PXU/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOq75U7fI/AAAAAAAACFk/C-eJuNdMkac/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOrsd8A7I/AAAAAAAACFw/CrzvRVM5Mcc/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOsrash7I/AAAAAAAACF8/N5Y1gj6Lphc/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOuGTaC3I/AAAAAAAACGA/bpmX_5PPtT4/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOu-j8dZI/AAAAAAAACGI/-PwSMZ1Oepc/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboOv0XvxlI/AAAAAAAACGQ/2-1YvV4gZZk/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOwcaYbUI/AAAAAAAACGY/zARKfUETi0Q/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboOxFfvwTI/AAAAAAAACGc/9nkWtjwB8h8/Lucky%20Luke%20Tap%2024%20Nhen%20Chan%20Dai-Lucky%20Luke%20Tap%20Nhen%20Chan%20Dai-lluke-20bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

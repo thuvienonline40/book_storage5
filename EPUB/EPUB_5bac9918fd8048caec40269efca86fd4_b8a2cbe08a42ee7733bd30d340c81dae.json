@@ -1,0 +1,372 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncxxivRcI/AAAAAAAABOE/qEr9rFGM__I/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbncyjdEHEI/AAAAAAAABOM/v-h3x5ysSqc/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnczTfRYzI/AAAAAAAABOU/YnygkLwtqoA/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnc0K3vp3I/AAAAAAAABOc/DPnsfyw1R-I/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnc3bSB3FI/AAAAAAAABO8/cMsdE1UW1Ac/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnc6dZEImI/AAAAAAAABPY/-b_KdFVq-9Q/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnc7NnVb4I/AAAAAAAABPg/4I6LDPKH5Ms/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnc-LMzepI/AAAAAAAABP0/MFztuHmVChI/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnc-xEaJgI/AAAAAAAABP8/7CosZ3Wt_Wk/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnc_spA8qI/AAAAAAAABQE/vhDVQkHvOXU/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbndAVba2LI/AAAAAAAABQM/Q_do15yVDYI/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndBGvxmvI/AAAAAAAABQY/-dNf-WdgGvA/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndB3h6grI/AAAAAAAABQc/XoCBojcMk2E/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndCssLdRI/AAAAAAAABQk/Am2eTtYtQlo/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndD7mjwyI/AAAAAAAABQw/2G_dCpVuquI/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbndG374vOI/AAAAAAAABRA/_MqKjYwTn-A/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndH7ci3AI/AAAAAAAABRI/xsjxFClNPWM/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbndIgGJ8cI/AAAAAAAABRU/FXW5xdjVFk0/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbndJu25BmI/AAAAAAAABRc/AT9zcJDARYA/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndKC-VqcI/AAAAAAAABRk/K9iaAu-azi4/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndNdbEBRI/AAAAAAAABRw/PBmwCv2bpMU/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndOLcYIQI/AAAAAAAABR4/fYhDtq8Vm-Y/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndOt_iRJI/AAAAAAAABR8/dWdiEyGYlY4/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndPpoY1dI/AAAAAAAABSE/joHWfi710Vg/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndQOROphI/AAAAAAAABSM/6Tlb_majc6M/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbndQ-js2pI/AAAAAAAABSY/WJwPI8Wl7IY/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndRr8bKCI/AAAAAAAABSg/WHo3PAz-0RE/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndSaxvAXI/AAAAAAAABSk/b6A4O102Yvo/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbndTE-T6pI/AAAAAAAABSo/v6L-GXtfbI8/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndTxGj9HI/AAAAAAAABSw/6WR0Siyhf0M/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndUvK7d-I/AAAAAAAABS8/Ha-U20sLzKY/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndVnVUeoI/AAAAAAAABTE/Ss8tJU82Ris/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndWeHxw8I/AAAAAAAABTM/dH1_qKWbBJM/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndXDP5yHI/AAAAAAAABTQ/sE4jx9dTErU/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndXuyQFGI/AAAAAAAABTU/bsJLTT0f704/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndYXXzKqI/AAAAAAAABTY/v-qJzrPTwZ4/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndZf_f4PI/AAAAAAAABTc/NpPnsP7z0A8/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnda3HASMI/AAAAAAAABTo/Lxnhlq3nH60/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndcJBEWkI/AAAAAAAABTw/DDn_GJsmB6w/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndfZYnLGI/AAAAAAAABT8/nvmY5Nwc0dY/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndiY6QpHI/AAAAAAAABUQ/FyntIBP3huY/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndlSx3rSI/AAAAAAAABUk/qYtgg6_6I5w/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbndmOyc-cI/AAAAAAAABUs/vHRIFlAbgmI/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbndm8BegwI/AAAAAAAABVE/upgA9sl43OA/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbndp1ViDgI/AAAAAAAABVk/qr5KR5KZgeI/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbndrhO_5-I/AAAAAAAABVs/eUq3kMO-sfk/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-Bia1.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnduouA9WI/AAAAAAAABWU/2yY-S-U06MM/Lucky%20Luke%20Tap%2067%20Trang%20Trai%20O.K.%20coral-Lucky%20Luke%20Tap%2060%20Trang%20Trai%20OK%20coral-lluke-60-Bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

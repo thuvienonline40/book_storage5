@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnlkv9QEdI/AAAAAAAACPU/1Ic_m0_TIUQ/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnllReIDsI/AAAAAAAACPY/Lj_7T0kRFxg/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnlmwJc4ZI/AAAAAAAACPk/-aMCPtQgbv8/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnlqrJJ0mI/AAAAAAAACPs/rCuGvb4RLuU/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnlrVKdxQI/AAAAAAAACPw/RbC2qP_M_dw/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnlsT6wvEI/AAAAAAAACP8/VaHdMRDlJlA/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnlvUr3hOI/AAAAAAAACQA/fFBphtRO29Q/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnlwGeV3II/AAAAAAAACQE/nvGX0GVjtak/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnlwzdG_kI/AAAAAAAACQI/s6sEQV6TyU4/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnlxkOSlOI/AAAAAAAACQM/ZM-z_447h3c/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnlyZm7Y3I/AAAAAAAACQU/ApyVP74f5Qc/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnlzETjg2I/AAAAAAAACQY/20vxygNIkwE/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnlz2usyeI/AAAAAAAACQg/1T_yRnzhV0U/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnl0ad6KWI/AAAAAAAACQk/2TzLF5_evcA/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnl1Y5u9-I/AAAAAAAACQo/Xdqn3mK7i0E/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnl2HOE2yI/AAAAAAAACQs/cZd8QO2GC9U/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnl29tku6I/AAAAAAAACQw/W2Qe_IjRxhA/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnl3TH2dMI/AAAAAAAACQ0/st7JX_AsV7o/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnl4Wc-NvI/AAAAAAAACQ8/oLmzcoj_38I/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/Tbnl5PwXsqI/AAAAAAAACRI/SfLT8kyukGg/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnl8BmZ2vI/AAAAAAAACRQ/CtCCUoq1UlE/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnl_IveiRI/AAAAAAAACRg/XUHzRBjRI68/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/Tbnl_4ry2mI/AAAAAAAACRk/FnHL6gckAbs/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnmAlOLAEI/AAAAAAAACRo/gU2GbBeRr3w/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnmBbhp-vI/AAAAAAAACRs/KLEzSSBaj1E/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnmCGhzcaI/AAAAAAAACRw/uJ2F-xpr_fc/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnmFHeJ8II/AAAAAAAACSA/IyQaajyVqd0/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnmKLIdtQI/AAAAAAAACSY/4FAXGNh4VyA/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnmLGu57dI/AAAAAAAACSc/w5ggXxdcN7s/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnmL3w0DqI/AAAAAAAACSk/-2GgUCypJ54/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnmMpPgFZI/AAAAAAAACSo/xTA6Zex17OA/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnmNXCKyvI/AAAAAAAACSs/-031Vrq5naE/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnmOPEAqiI/AAAAAAAACS0/adnej_yjp1s/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnmRMGb0gI/AAAAAAAACTA/t7OyhgIvJuU/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnmR2wWZDI/AAAAAAAACTE/W5xZ8qMHN5U/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnmU7gCmZI/AAAAAAAACTQ/LgUQkXBLFTk/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnmVjH_hhI/AAAAAAAACTU/XwFP10El4hk/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnmYu508pI/AAAAAAAACTo/bjXanf6ZHw4/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_2lX9CQzezHo/TbnmbgI_vBI/AAAAAAAACTw/Sz4_FGZ7szQ/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnmevzSjvI/AAAAAAAACT8/XQKYcN-sGZ8/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnmfe7zo8I/AAAAAAAACUA/MKnMVpvMgZg/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnmgGlayVI/AAAAAAAACUE/70o7blfdJ2Q/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/Tbnmg7zTZTI/AAAAAAAACUI/nZPKPvgI4TU/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnmmIj-5HI/AAAAAAAACUo/vEuzkZpQutM/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43-44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_2lX9CQzezHo/TbnmpEvvXXI/AAAAAAAACU4/7M20A74JTNo/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43bia.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_2lX9CQzezHo/TbnmqdExsnI/AAAAAAAACVA/yjmhCPvni-4/Lucky%20Luke%20Tap%2047%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch-Lucky%20Luke%20Tap%2039%20Nhung%20Doi%20Thu%20Tai%20PainFul%20Gulch.rar-lluke-43bia2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

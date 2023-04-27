@@ -1,0 +1,407 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/lucky-luke",
+    "title" : "Lucky Luke",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 84,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJgMSj3MI/AAAAAAAABYI/B03QCYiTmp4/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr00.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJhALXz1I/AAAAAAAABYQ/FDeQYvrKbmc/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr00a.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJhrHcJLI/AAAAAAAABYU/jl-XjGLUhbc/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJia_OG4I/AAAAAAAABYc/T4Li1iDct_k/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJjZnST5I/AAAAAAAABYk/Z3DbYNhWfKY/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJkD94j3I/AAAAAAAABYs/-wjnS7Tm8CY/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJlKPMoCI/AAAAAAAABY4/8Igy9DOwt6Q/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJlzWjFMI/AAAAAAAABZA/UUrRXqUtVZY/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJmvaZY_I/AAAAAAAABZE/V5aJgPiI1xE/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJnhT4P0I/AAAAAAAABZM/LDMOSaZQqZM/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJorQ-6FI/AAAAAAAABZY/zwDJipA-VNw/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJp7bdIgI/AAAAAAAABZk/lTDhuSpUg0U/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJqzfEdAI/AAAAAAAABZs/4P8006lX2Hs/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJryeG84I/AAAAAAAABZ0/QEijgefCtYs/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJs9iencI/AAAAAAAABaA/UWPuFRW6dK4/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJt1VFjxI/AAAAAAAABaI/7xEaaNJxgoc/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJuw02yZI/AAAAAAAABaU/4pOgK_uGuds/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJwDLKChI/AAAAAAAABac/wisZjsVw_5Q/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJxKnRZKI/AAAAAAAABak/6eJXxGlJSI8/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJyORhsWI/AAAAAAAABas/DuQKt_C3fXQ/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJzCc2pUI/AAAAAAAABaw/J9wtrIwo0-Q/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJ0bDLDZI/AAAAAAAABa8/O8A7f1tDiEM/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ1exBeoI/AAAAAAAABbA/zoY5bFDvJoY/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJ2UCHVmI/AAAAAAAABbI/fDi-sXBktIk/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ3fMQCKI/AAAAAAAABbY/--t30GtO6nE/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ4CFLsbI/AAAAAAAABbg/b53E8aQWRs4/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ5PTltuI/AAAAAAAABbw/UPDBMP2fBQc/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboJ6Em4l5I/AAAAAAAABb8/R1pMgddq4Gw/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ7JBqTSI/AAAAAAAABcE/9tXfe_sumi4/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ8FfOPaI/AAAAAAAABcM/b8swgbOd1jY/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ80uHy4I/AAAAAAAABcY/WHWzvFQrZLQ/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboJ96QXBaI/AAAAAAAABck/CGM1C2HTi6A/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ-zEeK-I/AAAAAAAABcs/53t8i0WtTD8/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboJ_vLN7UI/AAAAAAAABc0/YouJoCTXu7U/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr32.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKAkieCeI/AAAAAAAABdA/SBE7-_MIu80/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr33.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKBuVdtPI/AAAAAAAABdI/0xKRsjS79Ms/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr34.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKCkXP14I/AAAAAAAABdU/ZXhexagxvxY/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr35.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKDbz4sOI/AAAAAAAABdc/eUDrM2dSzNo/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr36.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKEZYmrnI/AAAAAAAABdk/19-Snu0q-CQ/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr37.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKFVAKBPI/AAAAAAAABds/8uDcszDnMDo/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr38.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKGXfpfdI/AAAAAAAABd8/Fxda2A6qUOw/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr39.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKHRI6FwI/AAAAAAAABeE/rRhU7Oz1pSk/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr40.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKIWke8mI/AAAAAAAABeQ/cSho76OmMKI/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr41.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKJGfzGFI/AAAAAAAABeY/1tIyZHijYVY/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr42.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKKPE0lrI/AAAAAAAABek/MLZ0vm7zYOc/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr43.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKLGl03OI/AAAAAAAABes/LakQ_d14ijA/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr44.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKMM6_pUI/AAAAAAAABe0/FIfLD0FGQ8I/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr45.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKNLKw4GI/AAAAAAAABfA/1RVOhDu3onM/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr46.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/_LA8-39wwwpQ/TboKN-TqA0I/AAAAAAAABfU/b7MBAsdmsrA/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr47.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKOqf0XvI/AAAAAAAABfc/JTiFFXDyMvk/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr48.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_LA8-39wwwpQ/TboKPZNxRQI/AAAAAAAABfk/EaaTQtpPR9o/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr49.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/_LA8-39wwwpQ/TboKQLUcjjI/AAAAAAAABfs/1Z24WnM3MKo/Lucky%20Luke%20Tap%2027%20Ruou%20Bo%20Than%20Ki%20Cua%20Bac%20Si%20Doxey-LuckyLuke27-BacSiDoxey-Tr50.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
