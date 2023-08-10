@@ -13,9 +13,14 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-22",
+    "published" : "2023-07-21",
     "duration" : 32562,
     "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
     "@type" : "http://schema.org/Audiobook",
     "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
   },
@@ -31,45 +36,101 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dan-ong-1_202202/dan-ong-1.mp3",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_073957fe578c3d5d80c92919fbd403c2_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11681,
-    "title" : "dan-ong-1"
+    "duration" : 0,
+    "title" : "dan-ong-1 (1)",
+    "properties" : null,
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dan-ong-1_202202/dan-ong-2.mp3",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_073957fe578c3d5d80c92919fbd403c2_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4650,
-    "title" : "dan-ong-2"
+    "duration" : 0,
+    "title" : "dan-ong-1 (2)",
+    "properties" : null,
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dan-ong-1_202202/dan-ong-3.mp3",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_fd5767fd72cd6e6f02147ce067b4c82b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5757,
-    "title" : "dan-ong-3"
+    "duration" : 0,
+    "title" : "dan-ong-2 (1)",
+    "properties" : null,
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dan-ong-1_202202/dan-ong-4.mp3",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_fd5767fd72cd6e6f02147ce067b4c82b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10474,
-    "title" : "dan-ong-4"
+    "duration" : 0,
+    "title" : "dan-ong-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_f74196cdd5d3dc518a6744a557042b58_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dan-ong-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_f74196cdd5d3dc518a6744a557042b58_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dan-ong-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_5c6c6735a5e3f4e86ebc719852bb2e1e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dan-ong-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_5c6c6735a5e3f4e86ebc719852bb2e1e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dan-ong-4 (2)",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dan-ong-1_202202/dan-ong-1.mp3",
-    "title" : "dan-ong-1",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_073957fe578c3d5d80c92919fbd403c2_1.mp3",
+    "title" : "dan-ong-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dan-ong-1_202202/dan-ong-2.mp3",
-    "title" : "dan-ong-2",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_073957fe578c3d5d80c92919fbd403c2_2.mp3",
+    "title" : "dan-ong-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dan-ong-1_202202/dan-ong-3.mp3",
-    "title" : "dan-ong-3",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_fd5767fd72cd6e6f02147ce067b4c82b_1.mp3",
+    "title" : "dan-ong-2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dan-ong-1_202202/dan-ong-4.mp3",
-    "title" : "dan-ong-4",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_fd5767fd72cd6e6f02147ce067b4c82b_2.mp3",
+    "title" : "dan-ong-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_f74196cdd5d3dc518a6744a557042b58_1.mp3",
+    "title" : "dan-ong-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_f74196cdd5d3dc518a6744a557042b58_2.mp3",
+    "title" : "dan-ong-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_5c6c6735a5e3f4e86ebc719852bb2e1e_1.mp3",
+    "title" : "dan-ong-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage5/main/AUDIO/AUDIO_8d911f5a1981267d642f903dcaecd88c_5c6c6735a5e3f4e86ebc719852bb2e1e_2.mp3",
+    "title" : "dan-ong-4 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
